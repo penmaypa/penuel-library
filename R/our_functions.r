@@ -3,6 +3,8 @@
 #
 # This R-Code contains a list of customized functions
 #   that can be re-used for a particular purposes.
+# 
+# Repo: https://github.com/penmaypa/penuel-library/raw/master/R/our_functions.r
 #
 #=====================================
 message(
@@ -15,7 +17,7 @@ message(
       \n Our_Functions.r -- created by Penuel Maypa 
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
-    )
+  )
 )
 
 #==========================
@@ -49,12 +51,61 @@ cutdown_data <- function(df, start_row, end_row){
 #
 check_invalid_values <- function(df){
   the_output <- grep(
-                  TRUE,
-                  is.na(df)
-                )
+    TRUE,
+    is.na(df)
+  )
   
   return(the_output)
 }
+
+
+# DESC: Compare two dataframe and check if their column are similar
+# INPUT: df_1 , df_2 
+# OUTPUT: Returns Boolean; True - if similar and False - if not similar
+#
+compare_two_dataframe_if_colnames_are_similar <- function(df_1, df_2){
+
+  # Input Validation Check
+  if(
+    class(df_1)=="data.frame"
+    &&
+    class(df_2)=="data.frame"
+  ){
+    
+    df1_names <- names(df_1)
+    df2_names <- names(df_2)
+    is_names_similar <- TRUE
+    
+    n1 <- 1
+    for(name in df1_names){
+      
+      if(name == df2_names[n1] && is_names_similar == TRUE){
+        is_names_similar <- TRUE
+      }else{
+        is_names_similar <- FALSE
+        message("\n Column name are not similar \n")
+        break
+      }
+      
+      n1 <- n1 + 1
+    }
+    
+    return_x <- is_names_similar
+  }else{
+    
+    message(
+      cat("\n----------------------------\n"),
+      cat("   Attetion ! \n\n"),
+      cat("  The inputs are not data frame."),
+      cat("\n  Please make sure to input a \"data.frame\" type"),
+      cat("\n\n-----------------------------")
+    )
+    
+  }
+  
+  return(return_x)
+}
+
 
 # DESC: Random rows
 # INPUT: df , n
@@ -74,71 +125,71 @@ check_date_iso <- function(date){
   #date <- sample(date,3, replace=TRUE)
   
   cont <- TRUE
-    n_item =1 
-    for(item in date){
-      value <- date[n]
-      value <- as.character(value)
-      value <- strsplit(value,"")[[1]]
-      bool_iso <- NULL
+  n_item =1 
+  for(item in date){
+    value <- date[n]
+    value <- as.character(value)
+    value <- strsplit(value,"")[[1]]
+    bool_iso <- NULL
+    
+    if(cont == TRUE){
       
-      if(cont == TRUE){
-  
-        char_nx <- 1
-        for(char in value){
-          
-          # Checking year
-          if( (char_nx <= 4) && (cont==TRUE) ){
-            if((is_char_a_number(char)==TRUE) && (cont == TRUE)){
-              cont <-  TRUE
-            }else{
-              cont <- FALSE
-            }
+      char_nx <- 1
+      for(char in value){
+        
+        # Checking year
+        if( (char_nx <= 4) && (cont==TRUE) ){
+          if((is_char_a_number(char)==TRUE) && (cont == TRUE)){
+            cont <-  TRUE
+          }else{
+            cont <- FALSE
           }
-          
-          
-          if((char_nx == 5) && (cont == TRUE)){
-            if(char == "-"){
-              cont <- TRUE
-            }else{
-              cont <- FALSE
-            }
-          }
-          
-          if((char_nx == 6 || char_nx == 7) && (cont==TRUE) ){
-            if((is_char_a_number(char)==TRUE) && (cont == TRUE)){
-              cont <- TRUE
-            }else{
-              cont <- FALSE
-            }
-          }
-          
-          if( (char_nx == 8) && (cont==TRUE) ){
-            if(char=="-"){
-              cont <- TRUE
-            }else{
-              cont <- FALSE
-            }
-          }
-          
-          if( (char_nx == 9 || char_nx == 10) && (cont==TRUE) ){
-            if((is_char_a_number(char)==TRUE)){
-              cont <- TRUE
-              bool_iso <- TRUE
-            }else{
-              cont <- FALSE
-              bool_iso <- FALSE
-            }
-          }
-          print(cont)
-          char_nx <- char_nx+1
         }
         
-      }else{
-        bool_iso <- FALSE
+        
+        if((char_nx == 5) && (cont == TRUE)){
+          if(char == "-"){
+            cont <- TRUE
+          }else{
+            cont <- FALSE
+          }
+        }
+        
+        if((char_nx == 6 || char_nx == 7) && (cont==TRUE) ){
+          if((is_char_a_number(char)==TRUE) && (cont == TRUE)){
+            cont <- TRUE
+          }else{
+            cont <- FALSE
+          }
+        }
+        
+        if( (char_nx == 8) && (cont==TRUE) ){
+          if(char=="-"){
+            cont <- TRUE
+          }else{
+            cont <- FALSE
+          }
+        }
+        
+        if( (char_nx == 9 || char_nx == 10) && (cont==TRUE) ){
+          if((is_char_a_number(char)==TRUE)){
+            cont <- TRUE
+            bool_iso <- TRUE
+          }else{
+            cont <- FALSE
+            bool_iso <- FALSE
+          }
+        }
+        print(cont)
+        char_nx <- char_nx+1
       }
-     
-      n_item <- n_item+1
+      
+    }else{
+      bool_iso <- FALSE
     }
+    
+    n_item <- n_item+1
+  }
   
   return_x <- bool_iso
   return (return_x)
@@ -161,12 +212,12 @@ compare_two_tables_and_find_difference_in_value <- function(df_1, df_2, df1_colu
   
   
   if(
-      (class(df1_key)== "character") &&
-      (class(df2_key)== "character")
+    (class(df1_key)== "character") &&
+    (class(df2_key)== "character")
   ){
     
     
-      
+    
   }else{
     message(
       cat("-------------------------------------------------------------------------------"),
@@ -342,7 +393,7 @@ select_date_range <- function(data, col_date, start_date, end_date){
     this_col <- data[, col_date]
     this_data <- data[order(data[c(col_date)], decreasing = FALSE),]
     
-  
+    
     as.character(this_data[c(col_date)])
     
     
