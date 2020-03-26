@@ -228,9 +228,6 @@ compare_two_tables_and_find_difference_in_value <- function(df_1, df_2, df1_colu
   }
 }
 
-compare_two_tables_by_similar_value(){
-  
-}
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
