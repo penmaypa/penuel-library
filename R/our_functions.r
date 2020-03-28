@@ -59,6 +59,24 @@ check_invalid_values <- function(df){
 }
 
 
+# FUNCTION: Check if there was error in the object/variable during assigning
+# INPUT: Objects/Vaiable
+# OUTPUT: Boolean -- TRUE; if error during assigning , FALSE; if the assiging was perform without error.
+#
+is_error <- function(var_obj){
+  message("\n----------------------------------------------------")
+  message("\n REMINDER: Make sure you assigned the object \n\t   on \"try()\" function, ",
+          "\n\t   before performing \"is_error()\" function \n")
+  message("------------------------------------------------------ \n")
+  
+  if("try-error" %in% class(var_obj)){
+    return(TRUE)
+  }else{
+    return(FALSE)
+  }
+}
+
+
 # DESC: Compare two dataframe and check if their column are similar
 # INPUT: df_1 , df_2 
 # OUTPUT: Returns Boolean; True - if similar and False - if not similar
