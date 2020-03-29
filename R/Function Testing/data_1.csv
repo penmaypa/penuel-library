@@ -1,0 +1,2026 @@
+WEO Country Code,ISO,WEO Subject Code,Country,Units,Scale
+512,AFG,NGDP_R,Afghanistan,National currency,Billions
+512,AFG,NGDP_RPCH,Afghanistan,Percent change,
+512,AFG,NGDP,Afghanistan,National currency,Billions
+512,AFG,NGDPD,Afghanistan,U.S. dollars,Billions
+512,AFG,PPPGDP,Afghanistan,Purchasing power parity; international dollars,Billions
+512,AFG,NGDP_D,Afghanistan,Index,
+512,AFG,NGDPRPC,Afghanistan,National currency,Units
+512,AFG,NGDPRPPPPC,Afghanistan,Purchasing power parity; 2011 international dollar,Units
+512,AFG,NGDPPC,Afghanistan,National currency,Units
+512,AFG,NGDPDPC,Afghanistan,U.S. dollars,Units
+512,AFG,PPPPC,Afghanistan,Purchasing power parity; international dollars,Units
+512,AFG,NGAP_NPGDP,Afghanistan,Percent of potential GDP,
+512,AFG,PPPSH,Afghanistan,Percent,
+512,AFG,PPPEX,Afghanistan,National currency per current international dollar,
+512,AFG,NID_NGDP,Afghanistan,Percent of GDP,
+512,AFG,NGSD_NGDP,Afghanistan,Percent of GDP,
+512,AFG,PCPI,Afghanistan,Index,
+512,AFG,PCPIPCH,Afghanistan,Percent change,
+512,AFG,PCPIE,Afghanistan,Index,
+512,AFG,PCPIEPCH,Afghanistan,Percent change,
+512,AFG,FLIBOR6,Afghanistan,Percent,
+512,AFG,TM_RPCH,Afghanistan,Percent change,
+512,AFG,TMG_RPCH,Afghanistan,Percent change,
+512,AFG,TX_RPCH,Afghanistan,Percent change,
+512,AFG,TXG_RPCH,Afghanistan,Percent change,
+512,AFG,LUR,Afghanistan,Percent of total labor force,
+512,AFG,LE,Afghanistan,Persons,Millions
+512,AFG,LP,Afghanistan,Persons,Millions
+512,AFG,GGR,Afghanistan,National currency,Billions
+512,AFG,GGR_NGDP,Afghanistan,Percent of GDP,
+512,AFG,GGX,Afghanistan,National currency,Billions
+512,AFG,GGX_NGDP,Afghanistan,Percent of GDP,
+512,AFG,GGXCNL,Afghanistan,National currency,Billions
+512,AFG,GGXCNL_NGDP,Afghanistan,Percent of GDP,
+512,AFG,GGSB,Afghanistan,National currency,Billions
+512,AFG,GGSB_NPGDP,Afghanistan,Percent of potential GDP,
+512,AFG,GGXONLB,Afghanistan,National currency,Billions
+512,AFG,GGXONLB_NGDP,Afghanistan,Percent of GDP,
+512,AFG,GGXWDN,Afghanistan,National currency,Billions
+512,AFG,GGXWDN_NGDP,Afghanistan,Percent of GDP,
+512,AFG,GGXWDG,Afghanistan,National currency,Billions
+512,AFG,GGXWDG_NGDP,Afghanistan,Percent of GDP,
+512,AFG,NGDP_FY,Afghanistan,National currency,Billions
+512,AFG,BCA,Afghanistan,U.S. dollars,Billions
+512,AFG,BCA_NGDPD,Afghanistan,Percent of GDP,
+914,ALB,NGDP_R,Albania,National currency,Billions
+914,ALB,NGDP_RPCH,Albania,Percent change,
+914,ALB,NGDP,Albania,National currency,Billions
+914,ALB,NGDPD,Albania,U.S. dollars,Billions
+914,ALB,PPPGDP,Albania,Purchasing power parity; international dollars,Billions
+914,ALB,NGDP_D,Albania,Index,
+914,ALB,NGDPRPC,Albania,National currency,Units
+914,ALB,NGDPRPPPPC,Albania,Purchasing power parity; 2011 international dollar,Units
+914,ALB,NGDPPC,Albania,National currency,Units
+914,ALB,NGDPDPC,Albania,U.S. dollars,Units
+914,ALB,PPPPC,Albania,Purchasing power parity; international dollars,Units
+914,ALB,NGAP_NPGDP,Albania,Percent of potential GDP,
+914,ALB,PPPSH,Albania,Percent,
+914,ALB,PPPEX,Albania,National currency per current international dollar,
+914,ALB,NID_NGDP,Albania,Percent of GDP,
+914,ALB,NGSD_NGDP,Albania,Percent of GDP,
+914,ALB,PCPI,Albania,Index,
+914,ALB,PCPIPCH,Albania,Percent change,
+914,ALB,PCPIE,Albania,Index,
+914,ALB,PCPIEPCH,Albania,Percent change,
+914,ALB,FLIBOR6,Albania,Percent,
+914,ALB,TM_RPCH,Albania,Percent change,
+914,ALB,TMG_RPCH,Albania,Percent change,
+914,ALB,TX_RPCH,Albania,Percent change,
+914,ALB,TXG_RPCH,Albania,Percent change,
+914,ALB,LUR,Albania,Percent of total labor force,
+914,ALB,LE,Albania,Persons,Millions
+914,ALB,LP,Albania,Persons,Millions
+914,ALB,GGR,Albania,National currency,Billions
+914,ALB,GGR_NGDP,Albania,Percent of GDP,
+914,ALB,GGX,Albania,National currency,Billions
+914,ALB,GGX_NGDP,Albania,Percent of GDP,
+914,ALB,GGXCNL,Albania,National currency,Billions
+914,ALB,GGXCNL_NGDP,Albania,Percent of GDP,
+914,ALB,GGSB,Albania,National currency,Billions
+914,ALB,GGSB_NPGDP,Albania,Percent of potential GDP,
+914,ALB,GGXONLB,Albania,National currency,Billions
+914,ALB,GGXONLB_NGDP,Albania,Percent of GDP,
+914,ALB,GGXWDN,Albania,National currency,Billions
+914,ALB,GGXWDN_NGDP,Albania,Percent of GDP,
+914,ALB,GGXWDG,Albania,National currency,Billions
+914,ALB,GGXWDG_NGDP,Albania,Percent of GDP,
+914,ALB,NGDP_FY,Albania,National currency,Billions
+914,ALB,BCA,Albania,U.S. dollars,Billions
+914,ALB,BCA_NGDPD,Albania,Percent of GDP,
+612,DZA,NGDP_R,Algeria,National currency,Billions
+612,DZA,NGDP_RPCH,Algeria,Percent change,
+612,DZA,NGDP,Algeria,National currency,Billions
+612,DZA,NGDPD,Algeria,U.S. dollars,Billions
+612,DZA,PPPGDP,Algeria,Purchasing power parity; international dollars,Billions
+612,DZA,NGDP_D,Algeria,Index,
+612,DZA,NGDPRPC,Algeria,National currency,Units
+612,DZA,NGDPRPPPPC,Algeria,Purchasing power parity; 2011 international dollar,Units
+612,DZA,NGDPPC,Algeria,National currency,Units
+612,DZA,NGDPDPC,Algeria,U.S. dollars,Units
+612,DZA,PPPPC,Algeria,Purchasing power parity; international dollars,Units
+612,DZA,NGAP_NPGDP,Algeria,Percent of potential GDP,
+612,DZA,PPPSH,Algeria,Percent,
+612,DZA,PPPEX,Algeria,National currency per current international dollar,
+612,DZA,NID_NGDP,Algeria,Percent of GDP,
+612,DZA,NGSD_NGDP,Algeria,Percent of GDP,
+612,DZA,PCPI,Algeria,Index,
+612,DZA,PCPIPCH,Algeria,Percent change,
+612,DZA,PCPIE,Algeria,Index,
+612,DZA,PCPIEPCH,Algeria,Percent change,
+612,DZA,FLIBOR6,Algeria,Percent,
+612,DZA,TM_RPCH,Algeria,Percent change,
+612,DZA,TMG_RPCH,Algeria,Percent change,
+612,DZA,TX_RPCH,Algeria,Percent change,
+612,DZA,TXG_RPCH,Algeria,Percent change,
+612,DZA,LUR,Algeria,Percent of total labor force,
+612,DZA,LE,Algeria,Persons,Millions
+612,DZA,LP,Algeria,Persons,Millions
+612,DZA,GGR,Algeria,National currency,Billions
+612,DZA,GGR_NGDP,Algeria,Percent of GDP,
+612,DZA,GGX,Algeria,National currency,Billions
+612,DZA,GGX_NGDP,Algeria,Percent of GDP,
+612,DZA,GGXCNL,Algeria,National currency,Billions
+612,DZA,GGXCNL_NGDP,Algeria,Percent of GDP,
+612,DZA,GGSB,Algeria,National currency,Billions
+612,DZA,GGSB_NPGDP,Algeria,Percent of potential GDP,
+612,DZA,GGXONLB,Algeria,National currency,Billions
+612,DZA,GGXONLB_NGDP,Algeria,Percent of GDP,
+612,DZA,GGXWDN,Algeria,National currency,Billions
+612,DZA,GGXWDN_NGDP,Algeria,Percent of GDP,
+612,DZA,GGXWDG,Algeria,National currency,Billions
+612,DZA,GGXWDG_NGDP,Algeria,Percent of GDP,
+612,DZA,NGDP_FY,Algeria,National currency,Billions
+612,DZA,BCA,Algeria,U.S. dollars,Billions
+612,DZA,BCA_NGDPD,Algeria,Percent of GDP,
+614,AGO,NGDP_R,Angola,National currency,Billions
+614,AGO,NGDP_RPCH,Angola,Percent change,
+614,AGO,NGDP,Angola,National currency,Billions
+614,AGO,NGDPD,Angola,U.S. dollars,Billions
+614,AGO,PPPGDP,Angola,Purchasing power parity; international dollars,Billions
+614,AGO,NGDP_D,Angola,Index,
+614,AGO,NGDPRPC,Angola,National currency,Units
+614,AGO,NGDPRPPPPC,Angola,Purchasing power parity; 2011 international dollar,Units
+614,AGO,NGDPPC,Angola,National currency,Units
+614,AGO,NGDPDPC,Angola,U.S. dollars,Units
+614,AGO,PPPPC,Angola,Purchasing power parity; international dollars,Units
+614,AGO,NGAP_NPGDP,Angola,Percent of potential GDP,
+614,AGO,PPPSH,Angola,Percent,
+614,AGO,PPPEX,Angola,National currency per current international dollar,
+614,AGO,NID_NGDP,Angola,Percent of GDP,
+614,AGO,NGSD_NGDP,Angola,Percent of GDP,
+614,AGO,PCPI,Angola,Index,
+614,AGO,PCPIPCH,Angola,Percent change,
+614,AGO,PCPIE,Angola,Index,
+614,AGO,PCPIEPCH,Angola,Percent change,
+614,AGO,FLIBOR6,Angola,Percent,
+614,AGO,TM_RPCH,Angola,Percent change,
+614,AGO,TMG_RPCH,Angola,Percent change,
+614,AGO,TX_RPCH,Angola,Percent change,
+614,AGO,TXG_RPCH,Angola,Percent change,
+614,AGO,LUR,Angola,Percent of total labor force,
+614,AGO,LE,Angola,Persons,Millions
+614,AGO,LP,Angola,Persons,Millions
+614,AGO,GGR,Angola,National currency,Billions
+614,AGO,GGR_NGDP,Angola,Percent of GDP,
+614,AGO,GGX,Angola,National currency,Billions
+614,AGO,GGX_NGDP,Angola,Percent of GDP,
+614,AGO,GGXCNL,Angola,National currency,Billions
+614,AGO,GGXCNL_NGDP,Angola,Percent of GDP,
+614,AGO,GGSB,Angola,National currency,Billions
+614,AGO,GGSB_NPGDP,Angola,Percent of potential GDP,
+614,AGO,GGXONLB,Angola,National currency,Billions
+614,AGO,GGXONLB_NGDP,Angola,Percent of GDP,
+614,AGO,GGXWDN,Angola,National currency,Billions
+614,AGO,GGXWDN_NGDP,Angola,Percent of GDP,
+614,AGO,GGXWDG,Angola,National currency,Billions
+614,AGO,GGXWDG_NGDP,Angola,Percent of GDP,
+614,AGO,NGDP_FY,Angola,National currency,Billions
+614,AGO,BCA,Angola,U.S. dollars,Billions
+614,AGO,BCA_NGDPD,Angola,Percent of GDP,
+311,ATG,NGDP_R,Antigua and Barbuda,National currency,Billions
+311,ATG,NGDP_RPCH,Antigua and Barbuda,Percent change,
+311,ATG,NGDP,Antigua and Barbuda,National currency,Billions
+311,ATG,NGDPD,Antigua and Barbuda,U.S. dollars,Billions
+311,ATG,PPPGDP,Antigua and Barbuda,Purchasing power parity; international dollars,Billions
+311,ATG,NGDP_D,Antigua and Barbuda,Index,
+311,ATG,NGDPRPC,Antigua and Barbuda,National currency,Units
+311,ATG,NGDPRPPPPC,Antigua and Barbuda,Purchasing power parity; 2011 international dollar,Units
+311,ATG,NGDPPC,Antigua and Barbuda,National currency,Units
+311,ATG,NGDPDPC,Antigua and Barbuda,U.S. dollars,Units
+311,ATG,PPPPC,Antigua and Barbuda,Purchasing power parity; international dollars,Units
+311,ATG,NGAP_NPGDP,Antigua and Barbuda,Percent of potential GDP,
+311,ATG,PPPSH,Antigua and Barbuda,Percent,
+311,ATG,PPPEX,Antigua and Barbuda,National currency per current international dollar,
+311,ATG,NID_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,NGSD_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,PCPI,Antigua and Barbuda,Index,
+311,ATG,PCPIPCH,Antigua and Barbuda,Percent change,
+311,ATG,PCPIE,Antigua and Barbuda,Index,
+311,ATG,PCPIEPCH,Antigua and Barbuda,Percent change,
+311,ATG,FLIBOR6,Antigua and Barbuda,Percent,
+311,ATG,TM_RPCH,Antigua and Barbuda,Percent change,
+311,ATG,TMG_RPCH,Antigua and Barbuda,Percent change,
+311,ATG,TX_RPCH,Antigua and Barbuda,Percent change,
+311,ATG,TXG_RPCH,Antigua and Barbuda,Percent change,
+311,ATG,LUR,Antigua and Barbuda,Percent of total labor force,
+311,ATG,LE,Antigua and Barbuda,Persons,Millions
+311,ATG,LP,Antigua and Barbuda,Persons,Millions
+311,ATG,GGR,Antigua and Barbuda,National currency,Billions
+311,ATG,GGR_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,GGX,Antigua and Barbuda,National currency,Billions
+311,ATG,GGX_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,GGXCNL,Antigua and Barbuda,National currency,Billions
+311,ATG,GGXCNL_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,GGSB,Antigua and Barbuda,National currency,Billions
+311,ATG,GGSB_NPGDP,Antigua and Barbuda,Percent of potential GDP,
+311,ATG,GGXONLB,Antigua and Barbuda,National currency,Billions
+311,ATG,GGXONLB_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,GGXWDN,Antigua and Barbuda,National currency,Billions
+311,ATG,GGXWDN_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,GGXWDG,Antigua and Barbuda,National currency,Billions
+311,ATG,GGXWDG_NGDP,Antigua and Barbuda,Percent of GDP,
+311,ATG,NGDP_FY,Antigua and Barbuda,National currency,Billions
+311,ATG,BCA,Antigua and Barbuda,U.S. dollars,Billions
+311,ATG,BCA_NGDPD,Antigua and Barbuda,Percent of GDP,
+213,ARG,NGDP_R,Argentina,National currency,Billions
+213,ARG,NGDP_RPCH,Argentina,Percent change,
+213,ARG,NGDP,Argentina,National currency,Billions
+213,ARG,NGDPD,Argentina,U.S. dollars,Billions
+213,ARG,PPPGDP,Argentina,Purchasing power parity; international dollars,Billions
+213,ARG,NGDP_D,Argentina,Index,
+213,ARG,NGDPRPC,Argentina,National currency,Units
+213,ARG,NGDPRPPPPC,Argentina,Purchasing power parity; 2011 international dollar,Units
+213,ARG,NGDPPC,Argentina,National currency,Units
+213,ARG,NGDPDPC,Argentina,U.S. dollars,Units
+213,ARG,PPPPC,Argentina,Purchasing power parity; international dollars,Units
+213,ARG,NGAP_NPGDP,Argentina,Percent of potential GDP,
+213,ARG,PPPSH,Argentina,Percent,
+213,ARG,PPPEX,Argentina,National currency per current international dollar,
+213,ARG,NID_NGDP,Argentina,Percent of GDP,
+213,ARG,NGSD_NGDP,Argentina,Percent of GDP,
+213,ARG,PCPI,Argentina,Index,
+213,ARG,PCPIPCH,Argentina,Percent change,
+213,ARG,PCPIE,Argentina,Index,
+213,ARG,PCPIEPCH,Argentina,Percent change,
+213,ARG,FLIBOR6,Argentina,Percent,
+213,ARG,TM_RPCH,Argentina,Percent change,
+213,ARG,TMG_RPCH,Argentina,Percent change,
+213,ARG,TX_RPCH,Argentina,Percent change,
+213,ARG,TXG_RPCH,Argentina,Percent change,
+213,ARG,LUR,Argentina,Percent of total labor force,
+213,ARG,LE,Argentina,Persons,Millions
+213,ARG,LP,Argentina,Persons,Millions
+213,ARG,GGR,Argentina,National currency,Billions
+213,ARG,GGR_NGDP,Argentina,Percent of GDP,
+213,ARG,GGX,Argentina,National currency,Billions
+213,ARG,GGX_NGDP,Argentina,Percent of GDP,
+213,ARG,GGXCNL,Argentina,National currency,Billions
+213,ARG,GGXCNL_NGDP,Argentina,Percent of GDP,
+213,ARG,GGSB,Argentina,National currency,Billions
+213,ARG,GGSB_NPGDP,Argentina,Percent of potential GDP,
+213,ARG,GGXONLB,Argentina,National currency,Billions
+213,ARG,GGXONLB_NGDP,Argentina,Percent of GDP,
+213,ARG,GGXWDN,Argentina,National currency,Billions
+213,ARG,GGXWDN_NGDP,Argentina,Percent of GDP,
+213,ARG,GGXWDG,Argentina,National currency,Billions
+213,ARG,GGXWDG_NGDP,Argentina,Percent of GDP,
+213,ARG,NGDP_FY,Argentina,National currency,Billions
+213,ARG,BCA,Argentina,U.S. dollars,Billions
+213,ARG,BCA_NGDPD,Argentina,Percent of GDP,
+911,ARM,NGDP_R,Armenia,National currency,Billions
+911,ARM,NGDP_RPCH,Armenia,Percent change,
+911,ARM,NGDP,Armenia,National currency,Billions
+911,ARM,NGDPD,Armenia,U.S. dollars,Billions
+911,ARM,PPPGDP,Armenia,Purchasing power parity; international dollars,Billions
+911,ARM,NGDP_D,Armenia,Index,
+911,ARM,NGDPRPC,Armenia,National currency,Units
+911,ARM,NGDPRPPPPC,Armenia,Purchasing power parity; 2011 international dollar,Units
+911,ARM,NGDPPC,Armenia,National currency,Units
+911,ARM,NGDPDPC,Armenia,U.S. dollars,Units
+911,ARM,PPPPC,Armenia,Purchasing power parity; international dollars,Units
+911,ARM,NGAP_NPGDP,Armenia,Percent of potential GDP,
+911,ARM,PPPSH,Armenia,Percent,
+911,ARM,PPPEX,Armenia,National currency per current international dollar,
+911,ARM,NID_NGDP,Armenia,Percent of GDP,
+911,ARM,NGSD_NGDP,Armenia,Percent of GDP,
+911,ARM,PCPI,Armenia,Index,
+911,ARM,PCPIPCH,Armenia,Percent change,
+911,ARM,PCPIE,Armenia,Index,
+911,ARM,PCPIEPCH,Armenia,Percent change,
+911,ARM,FLIBOR6,Armenia,Percent,
+911,ARM,TM_RPCH,Armenia,Percent change,
+911,ARM,TMG_RPCH,Armenia,Percent change,
+911,ARM,TX_RPCH,Armenia,Percent change,
+911,ARM,TXG_RPCH,Armenia,Percent change,
+911,ARM,LUR,Armenia,Percent of total labor force,
+911,ARM,LE,Armenia,Persons,Millions
+911,ARM,LP,Armenia,Persons,Millions
+911,ARM,GGR,Armenia,National currency,Billions
+911,ARM,GGR_NGDP,Armenia,Percent of GDP,
+911,ARM,GGX,Armenia,National currency,Billions
+911,ARM,GGX_NGDP,Armenia,Percent of GDP,
+911,ARM,GGXCNL,Armenia,National currency,Billions
+911,ARM,GGXCNL_NGDP,Armenia,Percent of GDP,
+911,ARM,GGSB,Armenia,National currency,Billions
+911,ARM,GGSB_NPGDP,Armenia,Percent of potential GDP,
+911,ARM,GGXONLB,Armenia,National currency,Billions
+911,ARM,GGXONLB_NGDP,Armenia,Percent of GDP,
+911,ARM,GGXWDN,Armenia,National currency,Billions
+911,ARM,GGXWDN_NGDP,Armenia,Percent of GDP,
+911,ARM,GGXWDG,Armenia,National currency,Billions
+911,ARM,GGXWDG_NGDP,Armenia,Percent of GDP,
+911,ARM,NGDP_FY,Armenia,National currency,Billions
+911,ARM,BCA,Armenia,U.S. dollars,Billions
+911,ARM,BCA_NGDPD,Armenia,Percent of GDP,
+314,ABW,NGDP_R,Aruba,National currency,Billions
+314,ABW,NGDP_RPCH,Aruba,Percent change,
+314,ABW,NGDP,Aruba,National currency,Billions
+314,ABW,NGDPD,Aruba,U.S. dollars,Billions
+314,ABW,PPPGDP,Aruba,Purchasing power parity; international dollars,Billions
+314,ABW,NGDP_D,Aruba,Index,
+314,ABW,NGDPRPC,Aruba,National currency,Units
+314,ABW,NGDPRPPPPC,Aruba,Purchasing power parity; 2011 international dollar,Units
+314,ABW,NGDPPC,Aruba,National currency,Units
+314,ABW,NGDPDPC,Aruba,U.S. dollars,Units
+314,ABW,PPPPC,Aruba,Purchasing power parity; international dollars,Units
+314,ABW,NGAP_NPGDP,Aruba,Percent of potential GDP,
+314,ABW,PPPSH,Aruba,Percent,
+314,ABW,PPPEX,Aruba,National currency per current international dollar,
+314,ABW,NID_NGDP,Aruba,Percent of GDP,
+314,ABW,NGSD_NGDP,Aruba,Percent of GDP,
+314,ABW,PCPI,Aruba,Index,
+314,ABW,PCPIPCH,Aruba,Percent change,
+314,ABW,PCPIE,Aruba,Index,
+314,ABW,PCPIEPCH,Aruba,Percent change,
+314,ABW,FLIBOR6,Aruba,Percent,
+314,ABW,TM_RPCH,Aruba,Percent change,
+314,ABW,TMG_RPCH,Aruba,Percent change,
+314,ABW,TX_RPCH,Aruba,Percent change,
+314,ABW,TXG_RPCH,Aruba,Percent change,
+314,ABW,LUR,Aruba,Percent of total labor force,
+314,ABW,LE,Aruba,Persons,Millions
+314,ABW,LP,Aruba,Persons,Millions
+314,ABW,GGR,Aruba,National currency,Billions
+314,ABW,GGR_NGDP,Aruba,Percent of GDP,
+314,ABW,GGX,Aruba,National currency,Billions
+314,ABW,GGX_NGDP,Aruba,Percent of GDP,
+314,ABW,GGXCNL,Aruba,National currency,Billions
+314,ABW,GGXCNL_NGDP,Aruba,Percent of GDP,
+314,ABW,GGSB,Aruba,National currency,Billions
+314,ABW,GGSB_NPGDP,Aruba,Percent of potential GDP,
+314,ABW,GGXONLB,Aruba,National currency,Billions
+314,ABW,GGXONLB_NGDP,Aruba,Percent of GDP,
+314,ABW,GGXWDN,Aruba,National currency,Billions
+314,ABW,GGXWDN_NGDP,Aruba,Percent of GDP,
+314,ABW,GGXWDG,Aruba,National currency,Billions
+314,ABW,GGXWDG_NGDP,Aruba,Percent of GDP,
+314,ABW,NGDP_FY,Aruba,National currency,Billions
+314,ABW,BCA,Aruba,U.S. dollars,Billions
+314,ABW,BCA_NGDPD,Aruba,Percent of GDP,
+193,AUS,NGDP_R,Australia,National currency,Billions
+193,AUS,NGDP_RPCH,Australia,Percent change,
+193,AUS,NGDP,Australia,National currency,Billions
+193,AUS,NGDPD,Australia,U.S. dollars,Billions
+193,AUS,PPPGDP,Australia,Purchasing power parity; international dollars,Billions
+193,AUS,NGDP_D,Australia,Index,
+193,AUS,NGDPRPC,Australia,National currency,Units
+193,AUS,NGDPRPPPPC,Australia,Purchasing power parity; 2011 international dollar,Units
+193,AUS,NGDPPC,Australia,National currency,Units
+193,AUS,NGDPDPC,Australia,U.S. dollars,Units
+193,AUS,PPPPC,Australia,Purchasing power parity; international dollars,Units
+193,AUS,NGAP_NPGDP,Australia,Percent of potential GDP,
+193,AUS,PPPSH,Australia,Percent,
+193,AUS,PPPEX,Australia,National currency per current international dollar,
+193,AUS,NID_NGDP,Australia,Percent of GDP,
+193,AUS,NGSD_NGDP,Australia,Percent of GDP,
+193,AUS,PCPI,Australia,Index,
+193,AUS,PCPIPCH,Australia,Percent change,
+193,AUS,PCPIE,Australia,Index,
+193,AUS,PCPIEPCH,Australia,Percent change,
+193,AUS,FLIBOR6,Australia,Percent,
+193,AUS,TM_RPCH,Australia,Percent change,
+193,AUS,TMG_RPCH,Australia,Percent change,
+193,AUS,TX_RPCH,Australia,Percent change,
+193,AUS,TXG_RPCH,Australia,Percent change,
+193,AUS,LUR,Australia,Percent of total labor force,
+193,AUS,LE,Australia,Persons,Millions
+193,AUS,LP,Australia,Persons,Millions
+193,AUS,GGR,Australia,National currency,Billions
+193,AUS,GGR_NGDP,Australia,Percent of GDP,
+193,AUS,GGX,Australia,National currency,Billions
+193,AUS,GGX_NGDP,Australia,Percent of GDP,
+193,AUS,GGXCNL,Australia,National currency,Billions
+193,AUS,GGXCNL_NGDP,Australia,Percent of GDP,
+193,AUS,GGSB,Australia,National currency,Billions
+193,AUS,GGSB_NPGDP,Australia,Percent of potential GDP,
+193,AUS,GGXONLB,Australia,National currency,Billions
+193,AUS,GGXONLB_NGDP,Australia,Percent of GDP,
+193,AUS,GGXWDN,Australia,National currency,Billions
+193,AUS,GGXWDN_NGDP,Australia,Percent of GDP,
+193,AUS,GGXWDG,Australia,National currency,Billions
+193,AUS,GGXWDG_NGDP,Australia,Percent of GDP,
+193,AUS,NGDP_FY,Australia,National currency,Billions
+193,AUS,BCA,Australia,U.S. dollars,Billions
+193,AUS,BCA_NGDPD,Australia,Percent of GDP,
+122,AUT,NGDP_R,Austria,National currency,Billions
+122,AUT,NGDP_RPCH,Austria,Percent change,
+122,AUT,NGDP,Austria,National currency,Billions
+122,AUT,NGDPD,Austria,U.S. dollars,Billions
+122,AUT,PPPGDP,Austria,Purchasing power parity; international dollars,Billions
+122,AUT,NGDP_D,Austria,Index,
+122,AUT,NGDPRPC,Austria,National currency,Units
+122,AUT,NGDPRPPPPC,Austria,Purchasing power parity; 2011 international dollar,Units
+122,AUT,NGDPPC,Austria,National currency,Units
+122,AUT,NGDPDPC,Austria,U.S. dollars,Units
+122,AUT,PPPPC,Austria,Purchasing power parity; international dollars,Units
+122,AUT,NGAP_NPGDP,Austria,Percent of potential GDP,
+122,AUT,PPPSH,Austria,Percent,
+122,AUT,PPPEX,Austria,National currency per current international dollar,
+122,AUT,NID_NGDP,Austria,Percent of GDP,
+122,AUT,NGSD_NGDP,Austria,Percent of GDP,
+122,AUT,PCPI,Austria,Index,
+122,AUT,PCPIPCH,Austria,Percent change,
+122,AUT,PCPIE,Austria,Index,
+122,AUT,PCPIEPCH,Austria,Percent change,
+122,AUT,FLIBOR6,Austria,Percent,
+122,AUT,TM_RPCH,Austria,Percent change,
+122,AUT,TMG_RPCH,Austria,Percent change,
+122,AUT,TX_RPCH,Austria,Percent change,
+122,AUT,TXG_RPCH,Austria,Percent change,
+122,AUT,LUR,Austria,Percent of total labor force,
+122,AUT,LE,Austria,Persons,Millions
+122,AUT,LP,Austria,Persons,Millions
+122,AUT,GGR,Austria,National currency,Billions
+122,AUT,GGR_NGDP,Austria,Percent of GDP,
+122,AUT,GGX,Austria,National currency,Billions
+122,AUT,GGX_NGDP,Austria,Percent of GDP,
+122,AUT,GGXCNL,Austria,National currency,Billions
+122,AUT,GGXCNL_NGDP,Austria,Percent of GDP,
+122,AUT,GGSB,Austria,National currency,Billions
+122,AUT,GGSB_NPGDP,Austria,Percent of potential GDP,
+122,AUT,GGXONLB,Austria,National currency,Billions
+122,AUT,GGXONLB_NGDP,Austria,Percent of GDP,
+122,AUT,GGXWDN,Austria,National currency,Billions
+122,AUT,GGXWDN_NGDP,Austria,Percent of GDP,
+122,AUT,GGXWDG,Austria,National currency,Billions
+122,AUT,GGXWDG_NGDP,Austria,Percent of GDP,
+122,AUT,NGDP_FY,Austria,National currency,Billions
+122,AUT,BCA,Austria,U.S. dollars,Billions
+122,AUT,BCA_NGDPD,Austria,Percent of GDP,
+912,AZE,NGDP_R,Azerbaijan,National currency,Billions
+912,AZE,NGDP_RPCH,Azerbaijan,Percent change,
+912,AZE,NGDP,Azerbaijan,National currency,Billions
+912,AZE,NGDPD,Azerbaijan,U.S. dollars,Billions
+912,AZE,PPPGDP,Azerbaijan,Purchasing power parity; international dollars,Billions
+912,AZE,NGDP_D,Azerbaijan,Index,
+912,AZE,NGDPRPC,Azerbaijan,National currency,Units
+912,AZE,NGDPRPPPPC,Azerbaijan,Purchasing power parity; 2011 international dollar,Units
+912,AZE,NGDPPC,Azerbaijan,National currency,Units
+912,AZE,NGDPDPC,Azerbaijan,U.S. dollars,Units
+912,AZE,PPPPC,Azerbaijan,Purchasing power parity; international dollars,Units
+912,AZE,NGAP_NPGDP,Azerbaijan,Percent of potential GDP,
+912,AZE,PPPSH,Azerbaijan,Percent,
+912,AZE,PPPEX,Azerbaijan,National currency per current international dollar,
+912,AZE,NID_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,NGSD_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,PCPI,Azerbaijan,Index,
+912,AZE,PCPIPCH,Azerbaijan,Percent change,
+912,AZE,PCPIE,Azerbaijan,Index,
+912,AZE,PCPIEPCH,Azerbaijan,Percent change,
+912,AZE,FLIBOR6,Azerbaijan,Percent,
+912,AZE,TM_RPCH,Azerbaijan,Percent change,
+912,AZE,TMG_RPCH,Azerbaijan,Percent change,
+912,AZE,TX_RPCH,Azerbaijan,Percent change,
+912,AZE,TXG_RPCH,Azerbaijan,Percent change,
+912,AZE,LUR,Azerbaijan,Percent of total labor force,
+912,AZE,LE,Azerbaijan,Persons,Millions
+912,AZE,LP,Azerbaijan,Persons,Millions
+912,AZE,GGR,Azerbaijan,National currency,Billions
+912,AZE,GGR_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,GGX,Azerbaijan,National currency,Billions
+912,AZE,GGX_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,GGXCNL,Azerbaijan,National currency,Billions
+912,AZE,GGXCNL_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,GGSB,Azerbaijan,National currency,Billions
+912,AZE,GGSB_NPGDP,Azerbaijan,Percent of potential GDP,
+912,AZE,GGXONLB,Azerbaijan,National currency,Billions
+912,AZE,GGXONLB_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,GGXWDN,Azerbaijan,National currency,Billions
+912,AZE,GGXWDN_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,GGXWDG,Azerbaijan,National currency,Billions
+912,AZE,GGXWDG_NGDP,Azerbaijan,Percent of GDP,
+912,AZE,NGDP_FY,Azerbaijan,National currency,Billions
+912,AZE,BCA,Azerbaijan,U.S. dollars,Billions
+912,AZE,BCA_NGDPD,Azerbaijan,Percent of GDP,
+313,BHS,NGDP_R,The Bahamas,National currency,Billions
+313,BHS,NGDP_RPCH,The Bahamas,Percent change,
+313,BHS,NGDP,The Bahamas,National currency,Billions
+313,BHS,NGDPD,The Bahamas,U.S. dollars,Billions
+313,BHS,PPPGDP,The Bahamas,Purchasing power parity; international dollars,Billions
+313,BHS,NGDP_D,The Bahamas,Index,
+313,BHS,NGDPRPC,The Bahamas,National currency,Units
+313,BHS,NGDPRPPPPC,The Bahamas,Purchasing power parity; 2011 international dollar,Units
+313,BHS,NGDPPC,The Bahamas,National currency,Units
+313,BHS,NGDPDPC,The Bahamas,U.S. dollars,Units
+313,BHS,PPPPC,The Bahamas,Purchasing power parity; international dollars,Units
+313,BHS,NGAP_NPGDP,The Bahamas,Percent of potential GDP,
+313,BHS,PPPSH,The Bahamas,Percent,
+313,BHS,PPPEX,The Bahamas,National currency per current international dollar,
+313,BHS,NID_NGDP,The Bahamas,Percent of GDP,
+313,BHS,NGSD_NGDP,The Bahamas,Percent of GDP,
+313,BHS,PCPI,The Bahamas,Index,
+313,BHS,PCPIPCH,The Bahamas,Percent change,
+313,BHS,PCPIE,The Bahamas,Index,
+313,BHS,PCPIEPCH,The Bahamas,Percent change,
+313,BHS,FLIBOR6,The Bahamas,Percent,
+313,BHS,TM_RPCH,The Bahamas,Percent change,
+313,BHS,TMG_RPCH,The Bahamas,Percent change,
+313,BHS,TX_RPCH,The Bahamas,Percent change,
+313,BHS,TXG_RPCH,The Bahamas,Percent change,
+313,BHS,LUR,The Bahamas,Percent of total labor force,
+313,BHS,LE,The Bahamas,Persons,Millions
+313,BHS,LP,The Bahamas,Persons,Millions
+313,BHS,GGR,The Bahamas,National currency,Billions
+313,BHS,GGR_NGDP,The Bahamas,Percent of GDP,
+313,BHS,GGX,The Bahamas,National currency,Billions
+313,BHS,GGX_NGDP,The Bahamas,Percent of GDP,
+313,BHS,GGXCNL,The Bahamas,National currency,Billions
+313,BHS,GGXCNL_NGDP,The Bahamas,Percent of GDP,
+313,BHS,GGSB,The Bahamas,National currency,Billions
+313,BHS,GGSB_NPGDP,The Bahamas,Percent of potential GDP,
+313,BHS,GGXONLB,The Bahamas,National currency,Billions
+313,BHS,GGXONLB_NGDP,The Bahamas,Percent of GDP,
+313,BHS,GGXWDN,The Bahamas,National currency,Billions
+313,BHS,GGXWDN_NGDP,The Bahamas,Percent of GDP,
+313,BHS,GGXWDG,The Bahamas,National currency,Billions
+313,BHS,GGXWDG_NGDP,The Bahamas,Percent of GDP,
+313,BHS,NGDP_FY,The Bahamas,National currency,Billions
+313,BHS,BCA,The Bahamas,U.S. dollars,Billions
+313,BHS,BCA_NGDPD,The Bahamas,Percent of GDP,
+419,BHR,NGDP_R,Bahrain,National currency,Billions
+419,BHR,NGDP_RPCH,Bahrain,Percent change,
+419,BHR,NGDP,Bahrain,National currency,Billions
+419,BHR,NGDPD,Bahrain,U.S. dollars,Billions
+419,BHR,PPPGDP,Bahrain,Purchasing power parity; international dollars,Billions
+419,BHR,NGDP_D,Bahrain,Index,
+419,BHR,NGDPRPC,Bahrain,National currency,Units
+419,BHR,NGDPRPPPPC,Bahrain,Purchasing power parity; 2011 international dollar,Units
+419,BHR,NGDPPC,Bahrain,National currency,Units
+419,BHR,NGDPDPC,Bahrain,U.S. dollars,Units
+419,BHR,PPPPC,Bahrain,Purchasing power parity; international dollars,Units
+419,BHR,NGAP_NPGDP,Bahrain,Percent of potential GDP,
+419,BHR,PPPSH,Bahrain,Percent,
+419,BHR,PPPEX,Bahrain,National currency per current international dollar,
+419,BHR,NID_NGDP,Bahrain,Percent of GDP,
+419,BHR,NGSD_NGDP,Bahrain,Percent of GDP,
+419,BHR,PCPI,Bahrain,Index,
+419,BHR,PCPIPCH,Bahrain,Percent change,
+419,BHR,PCPIE,Bahrain,Index,
+419,BHR,PCPIEPCH,Bahrain,Percent change,
+419,BHR,FLIBOR6,Bahrain,Percent,
+419,BHR,TM_RPCH,Bahrain,Percent change,
+419,BHR,TMG_RPCH,Bahrain,Percent change,
+419,BHR,TX_RPCH,Bahrain,Percent change,
+419,BHR,TXG_RPCH,Bahrain,Percent change,
+419,BHR,LUR,Bahrain,Percent of total labor force,
+419,BHR,LE,Bahrain,Persons,Millions
+419,BHR,LP,Bahrain,Persons,Millions
+419,BHR,GGR,Bahrain,National currency,Billions
+419,BHR,GGR_NGDP,Bahrain,Percent of GDP,
+419,BHR,GGX,Bahrain,National currency,Billions
+419,BHR,GGX_NGDP,Bahrain,Percent of GDP,
+419,BHR,GGXCNL,Bahrain,National currency,Billions
+419,BHR,GGXCNL_NGDP,Bahrain,Percent of GDP,
+419,BHR,GGSB,Bahrain,National currency,Billions
+419,BHR,GGSB_NPGDP,Bahrain,Percent of potential GDP,
+419,BHR,GGXONLB,Bahrain,National currency,Billions
+419,BHR,GGXONLB_NGDP,Bahrain,Percent of GDP,
+419,BHR,GGXWDN,Bahrain,National currency,Billions
+419,BHR,GGXWDN_NGDP,Bahrain,Percent of GDP,
+419,BHR,GGXWDG,Bahrain,National currency,Billions
+419,BHR,GGXWDG_NGDP,Bahrain,Percent of GDP,
+419,BHR,NGDP_FY,Bahrain,National currency,Billions
+419,BHR,BCA,Bahrain,U.S. dollars,Billions
+419,BHR,BCA_NGDPD,Bahrain,Percent of GDP,
+513,BGD,NGDP_R,Bangladesh,National currency,Billions
+513,BGD,NGDP_RPCH,Bangladesh,Percent change,
+513,BGD,NGDP,Bangladesh,National currency,Billions
+513,BGD,NGDPD,Bangladesh,U.S. dollars,Billions
+513,BGD,PPPGDP,Bangladesh,Purchasing power parity; international dollars,Billions
+513,BGD,NGDP_D,Bangladesh,Index,
+513,BGD,NGDPRPC,Bangladesh,National currency,Units
+513,BGD,NGDPRPPPPC,Bangladesh,Purchasing power parity; 2011 international dollar,Units
+513,BGD,NGDPPC,Bangladesh,National currency,Units
+513,BGD,NGDPDPC,Bangladesh,U.S. dollars,Units
+513,BGD,PPPPC,Bangladesh,Purchasing power parity; international dollars,Units
+513,BGD,NGAP_NPGDP,Bangladesh,Percent of potential GDP,
+513,BGD,PPPSH,Bangladesh,Percent,
+513,BGD,PPPEX,Bangladesh,National currency per current international dollar,
+513,BGD,NID_NGDP,Bangladesh,Percent of GDP,
+513,BGD,NGSD_NGDP,Bangladesh,Percent of GDP,
+513,BGD,PCPI,Bangladesh,Index,
+513,BGD,PCPIPCH,Bangladesh,Percent change,
+513,BGD,PCPIE,Bangladesh,Index,
+513,BGD,PCPIEPCH,Bangladesh,Percent change,
+513,BGD,FLIBOR6,Bangladesh,Percent,
+513,BGD,TM_RPCH,Bangladesh,Percent change,
+513,BGD,TMG_RPCH,Bangladesh,Percent change,
+513,BGD,TX_RPCH,Bangladesh,Percent change,
+513,BGD,TXG_RPCH,Bangladesh,Percent change,
+513,BGD,LUR,Bangladesh,Percent of total labor force,
+513,BGD,LE,Bangladesh,Persons,Millions
+513,BGD,LP,Bangladesh,Persons,Millions
+513,BGD,GGR,Bangladesh,National currency,Billions
+513,BGD,GGR_NGDP,Bangladesh,Percent of GDP,
+513,BGD,GGX,Bangladesh,National currency,Billions
+513,BGD,GGX_NGDP,Bangladesh,Percent of GDP,
+513,BGD,GGXCNL,Bangladesh,National currency,Billions
+513,BGD,GGXCNL_NGDP,Bangladesh,Percent of GDP,
+513,BGD,GGSB,Bangladesh,National currency,Billions
+513,BGD,GGSB_NPGDP,Bangladesh,Percent of potential GDP,
+513,BGD,GGXONLB,Bangladesh,National currency,Billions
+513,BGD,GGXONLB_NGDP,Bangladesh,Percent of GDP,
+513,BGD,GGXWDN,Bangladesh,National currency,Billions
+513,BGD,GGXWDN_NGDP,Bangladesh,Percent of GDP,
+513,BGD,GGXWDG,Bangladesh,National currency,Billions
+513,BGD,GGXWDG_NGDP,Bangladesh,Percent of GDP,
+513,BGD,NGDP_FY,Bangladesh,National currency,Billions
+513,BGD,BCA,Bangladesh,U.S. dollars,Billions
+513,BGD,BCA_NGDPD,Bangladesh,Percent of GDP,
+316,BRB,NGDP_R,Barbados,National currency,Billions
+316,BRB,NGDP_RPCH,Barbados,Percent change,
+316,BRB,NGDP,Barbados,National currency,Billions
+316,BRB,NGDPD,Barbados,U.S. dollars,Billions
+316,BRB,PPPGDP,Barbados,Purchasing power parity; international dollars,Billions
+316,BRB,NGDP_D,Barbados,Index,
+316,BRB,NGDPRPC,Barbados,National currency,Units
+316,BRB,NGDPRPPPPC,Barbados,Purchasing power parity; 2011 international dollar,Units
+316,BRB,NGDPPC,Barbados,National currency,Units
+316,BRB,NGDPDPC,Barbados,U.S. dollars,Units
+316,BRB,PPPPC,Barbados,Purchasing power parity; international dollars,Units
+316,BRB,NGAP_NPGDP,Barbados,Percent of potential GDP,
+316,BRB,PPPSH,Barbados,Percent,
+316,BRB,PPPEX,Barbados,National currency per current international dollar,
+316,BRB,NID_NGDP,Barbados,Percent of GDP,
+316,BRB,NGSD_NGDP,Barbados,Percent of GDP,
+316,BRB,PCPI,Barbados,Index,
+316,BRB,PCPIPCH,Barbados,Percent change,
+316,BRB,PCPIE,Barbados,Index,
+316,BRB,PCPIEPCH,Barbados,Percent change,
+316,BRB,FLIBOR6,Barbados,Percent,
+316,BRB,TM_RPCH,Barbados,Percent change,
+316,BRB,TMG_RPCH,Barbados,Percent change,
+316,BRB,TX_RPCH,Barbados,Percent change,
+316,BRB,TXG_RPCH,Barbados,Percent change,
+316,BRB,LUR,Barbados,Percent of total labor force,
+316,BRB,LE,Barbados,Persons,Millions
+316,BRB,LP,Barbados,Persons,Millions
+316,BRB,GGR,Barbados,National currency,Billions
+316,BRB,GGR_NGDP,Barbados,Percent of GDP,
+316,BRB,GGX,Barbados,National currency,Billions
+316,BRB,GGX_NGDP,Barbados,Percent of GDP,
+316,BRB,GGXCNL,Barbados,National currency,Billions
+316,BRB,GGXCNL_NGDP,Barbados,Percent of GDP,
+316,BRB,GGSB,Barbados,National currency,Billions
+316,BRB,GGSB_NPGDP,Barbados,Percent of potential GDP,
+316,BRB,GGXONLB,Barbados,National currency,Billions
+316,BRB,GGXONLB_NGDP,Barbados,Percent of GDP,
+316,BRB,GGXWDN,Barbados,National currency,Billions
+316,BRB,GGXWDN_NGDP,Barbados,Percent of GDP,
+316,BRB,GGXWDG,Barbados,National currency,Billions
+316,BRB,GGXWDG_NGDP,Barbados,Percent of GDP,
+316,BRB,NGDP_FY,Barbados,National currency,Billions
+316,BRB,BCA,Barbados,U.S. dollars,Billions
+316,BRB,BCA_NGDPD,Barbados,Percent of GDP,
+913,BLR,NGDP_R,Belarus,National currency,Billions
+913,BLR,NGDP_RPCH,Belarus,Percent change,
+913,BLR,NGDP,Belarus,National currency,Billions
+913,BLR,NGDPD,Belarus,U.S. dollars,Billions
+913,BLR,PPPGDP,Belarus,Purchasing power parity; international dollars,Billions
+913,BLR,NGDP_D,Belarus,Index,
+913,BLR,NGDPRPC,Belarus,National currency,Units
+913,BLR,NGDPRPPPPC,Belarus,Purchasing power parity; 2011 international dollar,Units
+913,BLR,NGDPPC,Belarus,National currency,Units
+913,BLR,NGDPDPC,Belarus,U.S. dollars,Units
+913,BLR,PPPPC,Belarus,Purchasing power parity; international dollars,Units
+913,BLR,NGAP_NPGDP,Belarus,Percent of potential GDP,
+913,BLR,PPPSH,Belarus,Percent,
+913,BLR,PPPEX,Belarus,National currency per current international dollar,
+913,BLR,NID_NGDP,Belarus,Percent of GDP,
+913,BLR,NGSD_NGDP,Belarus,Percent of GDP,
+913,BLR,PCPI,Belarus,Index,
+913,BLR,PCPIPCH,Belarus,Percent change,
+913,BLR,PCPIE,Belarus,Index,
+913,BLR,PCPIEPCH,Belarus,Percent change,
+913,BLR,FLIBOR6,Belarus,Percent,
+913,BLR,TM_RPCH,Belarus,Percent change,
+913,BLR,TMG_RPCH,Belarus,Percent change,
+913,BLR,TX_RPCH,Belarus,Percent change,
+913,BLR,TXG_RPCH,Belarus,Percent change,
+913,BLR,LUR,Belarus,Percent of total labor force,
+913,BLR,LE,Belarus,Persons,Millions
+913,BLR,LP,Belarus,Persons,Millions
+913,BLR,GGR,Belarus,National currency,Billions
+913,BLR,GGR_NGDP,Belarus,Percent of GDP,
+913,BLR,GGX,Belarus,National currency,Billions
+913,BLR,GGX_NGDP,Belarus,Percent of GDP,
+913,BLR,GGXCNL,Belarus,National currency,Billions
+913,BLR,GGXCNL_NGDP,Belarus,Percent of GDP,
+913,BLR,GGSB,Belarus,National currency,Billions
+913,BLR,GGSB_NPGDP,Belarus,Percent of potential GDP,
+913,BLR,GGXONLB,Belarus,National currency,Billions
+913,BLR,GGXONLB_NGDP,Belarus,Percent of GDP,
+913,BLR,GGXWDN,Belarus,National currency,Billions
+913,BLR,GGXWDN_NGDP,Belarus,Percent of GDP,
+913,BLR,GGXWDG,Belarus,National currency,Billions
+913,BLR,GGXWDG_NGDP,Belarus,Percent of GDP,
+913,BLR,NGDP_FY,Belarus,National currency,Billions
+913,BLR,BCA,Belarus,U.S. dollars,Billions
+913,BLR,BCA_NGDPD,Belarus,Percent of GDP,
+124,BEL,NGDP_R,Belgium,National currency,Billions
+124,BEL,NGDP_RPCH,Belgium,Percent change,
+124,BEL,NGDP,Belgium,National currency,Billions
+124,BEL,NGDPD,Belgium,U.S. dollars,Billions
+124,BEL,PPPGDP,Belgium,Purchasing power parity; international dollars,Billions
+124,BEL,NGDP_D,Belgium,Index,
+124,BEL,NGDPRPC,Belgium,National currency,Units
+124,BEL,NGDPRPPPPC,Belgium,Purchasing power parity; 2011 international dollar,Units
+124,BEL,NGDPPC,Belgium,National currency,Units
+124,BEL,NGDPDPC,Belgium,U.S. dollars,Units
+124,BEL,PPPPC,Belgium,Purchasing power parity; international dollars,Units
+124,BEL,NGAP_NPGDP,Belgium,Percent of potential GDP,
+124,BEL,PPPSH,Belgium,Percent,
+124,BEL,PPPEX,Belgium,National currency per current international dollar,
+124,BEL,NID_NGDP,Belgium,Percent of GDP,
+124,BEL,NGSD_NGDP,Belgium,Percent of GDP,
+124,BEL,PCPI,Belgium,Index,
+124,BEL,PCPIPCH,Belgium,Percent change,
+124,BEL,PCPIE,Belgium,Index,
+124,BEL,PCPIEPCH,Belgium,Percent change,
+124,BEL,FLIBOR6,Belgium,Percent,
+124,BEL,TM_RPCH,Belgium,Percent change,
+124,BEL,TMG_RPCH,Belgium,Percent change,
+124,BEL,TX_RPCH,Belgium,Percent change,
+124,BEL,TXG_RPCH,Belgium,Percent change,
+124,BEL,LUR,Belgium,Percent of total labor force,
+124,BEL,LE,Belgium,Persons,Millions
+124,BEL,LP,Belgium,Persons,Millions
+124,BEL,GGR,Belgium,National currency,Billions
+124,BEL,GGR_NGDP,Belgium,Percent of GDP,
+124,BEL,GGX,Belgium,National currency,Billions
+124,BEL,GGX_NGDP,Belgium,Percent of GDP,
+124,BEL,GGXCNL,Belgium,National currency,Billions
+124,BEL,GGXCNL_NGDP,Belgium,Percent of GDP,
+124,BEL,GGSB,Belgium,National currency,Billions
+124,BEL,GGSB_NPGDP,Belgium,Percent of potential GDP,
+124,BEL,GGXONLB,Belgium,National currency,Billions
+124,BEL,GGXONLB_NGDP,Belgium,Percent of GDP,
+124,BEL,GGXWDN,Belgium,National currency,Billions
+124,BEL,GGXWDN_NGDP,Belgium,Percent of GDP,
+124,BEL,GGXWDG,Belgium,National currency,Billions
+124,BEL,GGXWDG_NGDP,Belgium,Percent of GDP,
+124,BEL,NGDP_FY,Belgium,National currency,Billions
+124,BEL,BCA,Belgium,U.S. dollars,Billions
+124,BEL,BCA_NGDPD,Belgium,Percent of GDP,
+339,BLZ,NGDP_R,Belize,National currency,Billions
+339,BLZ,NGDP_RPCH,Belize,Percent change,
+339,BLZ,NGDP,Belize,National currency,Billions
+339,BLZ,NGDPD,Belize,U.S. dollars,Billions
+339,BLZ,PPPGDP,Belize,Purchasing power parity; international dollars,Billions
+339,BLZ,NGDP_D,Belize,Index,
+339,BLZ,NGDPRPC,Belize,National currency,Units
+339,BLZ,NGDPRPPPPC,Belize,Purchasing power parity; 2011 international dollar,Units
+339,BLZ,NGDPPC,Belize,National currency,Units
+339,BLZ,NGDPDPC,Belize,U.S. dollars,Units
+339,BLZ,PPPPC,Belize,Purchasing power parity; international dollars,Units
+339,BLZ,NGAP_NPGDP,Belize,Percent of potential GDP,
+339,BLZ,PPPSH,Belize,Percent,
+339,BLZ,PPPEX,Belize,National currency per current international dollar,
+339,BLZ,NID_NGDP,Belize,Percent of GDP,
+339,BLZ,NGSD_NGDP,Belize,Percent of GDP,
+339,BLZ,PCPI,Belize,Index,
+339,BLZ,PCPIPCH,Belize,Percent change,
+339,BLZ,PCPIE,Belize,Index,
+339,BLZ,PCPIEPCH,Belize,Percent change,
+339,BLZ,FLIBOR6,Belize,Percent,
+339,BLZ,TM_RPCH,Belize,Percent change,
+339,BLZ,TMG_RPCH,Belize,Percent change,
+339,BLZ,TX_RPCH,Belize,Percent change,
+339,BLZ,TXG_RPCH,Belize,Percent change,
+339,BLZ,LUR,Belize,Percent of total labor force,
+339,BLZ,LE,Belize,Persons,Millions
+339,BLZ,LP,Belize,Persons,Millions
+339,BLZ,GGR,Belize,National currency,Billions
+339,BLZ,GGR_NGDP,Belize,Percent of GDP,
+339,BLZ,GGX,Belize,National currency,Billions
+339,BLZ,GGX_NGDP,Belize,Percent of GDP,
+339,BLZ,GGXCNL,Belize,National currency,Billions
+339,BLZ,GGXCNL_NGDP,Belize,Percent of GDP,
+339,BLZ,GGSB,Belize,National currency,Billions
+339,BLZ,GGSB_NPGDP,Belize,Percent of potential GDP,
+339,BLZ,GGXONLB,Belize,National currency,Billions
+339,BLZ,GGXONLB_NGDP,Belize,Percent of GDP,
+339,BLZ,GGXWDN,Belize,National currency,Billions
+339,BLZ,GGXWDN_NGDP,Belize,Percent of GDP,
+339,BLZ,GGXWDG,Belize,National currency,Billions
+339,BLZ,GGXWDG_NGDP,Belize,Percent of GDP,
+339,BLZ,NGDP_FY,Belize,National currency,Billions
+339,BLZ,BCA,Belize,U.S. dollars,Billions
+339,BLZ,BCA_NGDPD,Belize,Percent of GDP,
+638,BEN,NGDP_R,Benin,National currency,Billions
+638,BEN,NGDP_RPCH,Benin,Percent change,
+638,BEN,NGDP,Benin,National currency,Billions
+638,BEN,NGDPD,Benin,U.S. dollars,Billions
+638,BEN,PPPGDP,Benin,Purchasing power parity; international dollars,Billions
+638,BEN,NGDP_D,Benin,Index,
+638,BEN,NGDPRPC,Benin,National currency,Units
+638,BEN,NGDPRPPPPC,Benin,Purchasing power parity; 2011 international dollar,Units
+638,BEN,NGDPPC,Benin,National currency,Units
+638,BEN,NGDPDPC,Benin,U.S. dollars,Units
+638,BEN,PPPPC,Benin,Purchasing power parity; international dollars,Units
+638,BEN,NGAP_NPGDP,Benin,Percent of potential GDP,
+638,BEN,PPPSH,Benin,Percent,
+638,BEN,PPPEX,Benin,National currency per current international dollar,
+638,BEN,NID_NGDP,Benin,Percent of GDP,
+638,BEN,NGSD_NGDP,Benin,Percent of GDP,
+638,BEN,PCPI,Benin,Index,
+638,BEN,PCPIPCH,Benin,Percent change,
+638,BEN,PCPIE,Benin,Index,
+638,BEN,PCPIEPCH,Benin,Percent change,
+638,BEN,FLIBOR6,Benin,Percent,
+638,BEN,TM_RPCH,Benin,Percent change,
+638,BEN,TMG_RPCH,Benin,Percent change,
+638,BEN,TX_RPCH,Benin,Percent change,
+638,BEN,TXG_RPCH,Benin,Percent change,
+638,BEN,LUR,Benin,Percent of total labor force,
+638,BEN,LE,Benin,Persons,Millions
+638,BEN,LP,Benin,Persons,Millions
+638,BEN,GGR,Benin,National currency,Billions
+638,BEN,GGR_NGDP,Benin,Percent of GDP,
+638,BEN,GGX,Benin,National currency,Billions
+638,BEN,GGX_NGDP,Benin,Percent of GDP,
+638,BEN,GGXCNL,Benin,National currency,Billions
+638,BEN,GGXCNL_NGDP,Benin,Percent of GDP,
+638,BEN,GGSB,Benin,National currency,Billions
+638,BEN,GGSB_NPGDP,Benin,Percent of potential GDP,
+638,BEN,GGXONLB,Benin,National currency,Billions
+638,BEN,GGXONLB_NGDP,Benin,Percent of GDP,
+638,BEN,GGXWDN,Benin,National currency,Billions
+638,BEN,GGXWDN_NGDP,Benin,Percent of GDP,
+638,BEN,GGXWDG,Benin,National currency,Billions
+638,BEN,GGXWDG_NGDP,Benin,Percent of GDP,
+638,BEN,NGDP_FY,Benin,National currency,Billions
+638,BEN,BCA,Benin,U.S. dollars,Billions
+638,BEN,BCA_NGDPD,Benin,Percent of GDP,
+514,BTN,NGDP_R,Bhutan,National currency,Billions
+514,BTN,NGDP_RPCH,Bhutan,Percent change,
+514,BTN,NGDP,Bhutan,National currency,Billions
+514,BTN,NGDPD,Bhutan,U.S. dollars,Billions
+514,BTN,PPPGDP,Bhutan,Purchasing power parity; international dollars,Billions
+514,BTN,NGDP_D,Bhutan,Index,
+514,BTN,NGDPRPC,Bhutan,National currency,Units
+514,BTN,NGDPRPPPPC,Bhutan,Purchasing power parity; 2011 international dollar,Units
+514,BTN,NGDPPC,Bhutan,National currency,Units
+514,BTN,NGDPDPC,Bhutan,U.S. dollars,Units
+514,BTN,PPPPC,Bhutan,Purchasing power parity; international dollars,Units
+514,BTN,NGAP_NPGDP,Bhutan,Percent of potential GDP,
+514,BTN,PPPSH,Bhutan,Percent,
+514,BTN,PPPEX,Bhutan,National currency per current international dollar,
+514,BTN,NID_NGDP,Bhutan,Percent of GDP,
+514,BTN,NGSD_NGDP,Bhutan,Percent of GDP,
+514,BTN,PCPI,Bhutan,Index,
+514,BTN,PCPIPCH,Bhutan,Percent change,
+514,BTN,PCPIE,Bhutan,Index,
+514,BTN,PCPIEPCH,Bhutan,Percent change,
+514,BTN,FLIBOR6,Bhutan,Percent,
+514,BTN,TM_RPCH,Bhutan,Percent change,
+514,BTN,TMG_RPCH,Bhutan,Percent change,
+514,BTN,TX_RPCH,Bhutan,Percent change,
+514,BTN,TXG_RPCH,Bhutan,Percent change,
+514,BTN,LUR,Bhutan,Percent of total labor force,
+514,BTN,LE,Bhutan,Persons,Millions
+514,BTN,LP,Bhutan,Persons,Millions
+514,BTN,GGR,Bhutan,National currency,Billions
+514,BTN,GGR_NGDP,Bhutan,Percent of GDP,
+514,BTN,GGX,Bhutan,National currency,Billions
+514,BTN,GGX_NGDP,Bhutan,Percent of GDP,
+514,BTN,GGXCNL,Bhutan,National currency,Billions
+514,BTN,GGXCNL_NGDP,Bhutan,Percent of GDP,
+514,BTN,GGSB,Bhutan,National currency,Billions
+514,BTN,GGSB_NPGDP,Bhutan,Percent of potential GDP,
+514,BTN,GGXONLB,Bhutan,National currency,Billions
+514,BTN,GGXONLB_NGDP,Bhutan,Percent of GDP,
+514,BTN,GGXWDN,Bhutan,National currency,Billions
+514,BTN,GGXWDN_NGDP,Bhutan,Percent of GDP,
+514,BTN,GGXWDG,Bhutan,National currency,Billions
+514,BTN,GGXWDG_NGDP,Bhutan,Percent of GDP,
+514,BTN,NGDP_FY,Bhutan,National currency,Billions
+514,BTN,BCA,Bhutan,U.S. dollars,Billions
+514,BTN,BCA_NGDPD,Bhutan,Percent of GDP,
+218,BOL,NGDP_R,Bolivia,National currency,Billions
+218,BOL,NGDP_RPCH,Bolivia,Percent change,
+218,BOL,NGDP,Bolivia,National currency,Billions
+218,BOL,NGDPD,Bolivia,U.S. dollars,Billions
+218,BOL,PPPGDP,Bolivia,Purchasing power parity; international dollars,Billions
+218,BOL,NGDP_D,Bolivia,Index,
+218,BOL,NGDPRPC,Bolivia,National currency,Units
+218,BOL,NGDPRPPPPC,Bolivia,Purchasing power parity; 2011 international dollar,Units
+218,BOL,NGDPPC,Bolivia,National currency,Units
+218,BOL,NGDPDPC,Bolivia,U.S. dollars,Units
+218,BOL,PPPPC,Bolivia,Purchasing power parity; international dollars,Units
+218,BOL,NGAP_NPGDP,Bolivia,Percent of potential GDP,
+218,BOL,PPPSH,Bolivia,Percent,
+218,BOL,PPPEX,Bolivia,National currency per current international dollar,
+218,BOL,NID_NGDP,Bolivia,Percent of GDP,
+218,BOL,NGSD_NGDP,Bolivia,Percent of GDP,
+218,BOL,PCPI,Bolivia,Index,
+218,BOL,PCPIPCH,Bolivia,Percent change,
+218,BOL,PCPIE,Bolivia,Index,
+218,BOL,PCPIEPCH,Bolivia,Percent change,
+218,BOL,FLIBOR6,Bolivia,Percent,
+218,BOL,TM_RPCH,Bolivia,Percent change,
+218,BOL,TMG_RPCH,Bolivia,Percent change,
+218,BOL,TX_RPCH,Bolivia,Percent change,
+218,BOL,TXG_RPCH,Bolivia,Percent change,
+218,BOL,LUR,Bolivia,Percent of total labor force,
+218,BOL,LE,Bolivia,Persons,Millions
+218,BOL,LP,Bolivia,Persons,Millions
+218,BOL,GGR,Bolivia,National currency,Billions
+218,BOL,GGR_NGDP,Bolivia,Percent of GDP,
+218,BOL,GGX,Bolivia,National currency,Billions
+218,BOL,GGX_NGDP,Bolivia,Percent of GDP,
+218,BOL,GGXCNL,Bolivia,National currency,Billions
+218,BOL,GGXCNL_NGDP,Bolivia,Percent of GDP,
+218,BOL,GGSB,Bolivia,National currency,Billions
+218,BOL,GGSB_NPGDP,Bolivia,Percent of potential GDP,
+218,BOL,GGXONLB,Bolivia,National currency,Billions
+218,BOL,GGXONLB_NGDP,Bolivia,Percent of GDP,
+218,BOL,GGXWDN,Bolivia,National currency,Billions
+218,BOL,GGXWDN_NGDP,Bolivia,Percent of GDP,
+218,BOL,GGXWDG,Bolivia,National currency,Billions
+218,BOL,GGXWDG_NGDP,Bolivia,Percent of GDP,
+218,BOL,NGDP_FY,Bolivia,National currency,Billions
+218,BOL,BCA,Bolivia,U.S. dollars,Billions
+218,BOL,BCA_NGDPD,Bolivia,Percent of GDP,
+963,BIH,NGDP_R,Bosnia and Herzegovina,National currency,Billions
+963,BIH,NGDP_RPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,NGDP,Bosnia and Herzegovina,National currency,Billions
+963,BIH,NGDPD,Bosnia and Herzegovina,U.S. dollars,Billions
+963,BIH,PPPGDP,Bosnia and Herzegovina,Purchasing power parity; international dollars,Billions
+963,BIH,NGDP_D,Bosnia and Herzegovina,Index,
+963,BIH,NGDPRPC,Bosnia and Herzegovina,National currency,Units
+963,BIH,NGDPRPPPPC,Bosnia and Herzegovina,Purchasing power parity; 2011 international dollar,Units
+963,BIH,NGDPPC,Bosnia and Herzegovina,National currency,Units
+963,BIH,NGDPDPC,Bosnia and Herzegovina,U.S. dollars,Units
+963,BIH,PPPPC,Bosnia and Herzegovina,Purchasing power parity; international dollars,Units
+963,BIH,NGAP_NPGDP,Bosnia and Herzegovina,Percent of potential GDP,
+963,BIH,PPPSH,Bosnia and Herzegovina,Percent,
+963,BIH,PPPEX,Bosnia and Herzegovina,National currency per current international dollar,
+963,BIH,NID_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,NGSD_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,PCPI,Bosnia and Herzegovina,Index,
+963,BIH,PCPIPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,PCPIE,Bosnia and Herzegovina,Index,
+963,BIH,PCPIEPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,FLIBOR6,Bosnia and Herzegovina,Percent,
+963,BIH,TM_RPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,TMG_RPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,TX_RPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,TXG_RPCH,Bosnia and Herzegovina,Percent change,
+963,BIH,LUR,Bosnia and Herzegovina,Percent of total labor force,
+963,BIH,LE,Bosnia and Herzegovina,Persons,Millions
+963,BIH,LP,Bosnia and Herzegovina,Persons,Millions
+963,BIH,GGR,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGR_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,GGX,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGX_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,GGXCNL,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGXCNL_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,GGSB,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGSB_NPGDP,Bosnia and Herzegovina,Percent of potential GDP,
+963,BIH,GGXONLB,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGXONLB_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,GGXWDN,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGXWDN_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,GGXWDG,Bosnia and Herzegovina,National currency,Billions
+963,BIH,GGXWDG_NGDP,Bosnia and Herzegovina,Percent of GDP,
+963,BIH,NGDP_FY,Bosnia and Herzegovina,National currency,Billions
+963,BIH,BCA,Bosnia and Herzegovina,U.S. dollars,Billions
+963,BIH,BCA_NGDPD,Bosnia and Herzegovina,Percent of GDP,
+616,BWA,NGDP_R,Botswana,National currency,Billions
+616,BWA,NGDP_RPCH,Botswana,Percent change,
+616,BWA,NGDP,Botswana,National currency,Billions
+616,BWA,NGDPD,Botswana,U.S. dollars,Billions
+616,BWA,PPPGDP,Botswana,Purchasing power parity; international dollars,Billions
+616,BWA,NGDP_D,Botswana,Index,
+616,BWA,NGDPRPC,Botswana,National currency,Units
+616,BWA,NGDPRPPPPC,Botswana,Purchasing power parity; 2011 international dollar,Units
+616,BWA,NGDPPC,Botswana,National currency,Units
+616,BWA,NGDPDPC,Botswana,U.S. dollars,Units
+616,BWA,PPPPC,Botswana,Purchasing power parity; international dollars,Units
+616,BWA,NGAP_NPGDP,Botswana,Percent of potential GDP,
+616,BWA,PPPSH,Botswana,Percent,
+616,BWA,PPPEX,Botswana,National currency per current international dollar,
+616,BWA,NID_NGDP,Botswana,Percent of GDP,
+616,BWA,NGSD_NGDP,Botswana,Percent of GDP,
+616,BWA,PCPI,Botswana,Index,
+616,BWA,PCPIPCH,Botswana,Percent change,
+616,BWA,PCPIE,Botswana,Index,
+616,BWA,PCPIEPCH,Botswana,Percent change,
+616,BWA,FLIBOR6,Botswana,Percent,
+616,BWA,TM_RPCH,Botswana,Percent change,
+616,BWA,TMG_RPCH,Botswana,Percent change,
+616,BWA,TX_RPCH,Botswana,Percent change,
+616,BWA,TXG_RPCH,Botswana,Percent change,
+616,BWA,LUR,Botswana,Percent of total labor force,
+616,BWA,LE,Botswana,Persons,Millions
+616,BWA,LP,Botswana,Persons,Millions
+616,BWA,GGR,Botswana,National currency,Billions
+616,BWA,GGR_NGDP,Botswana,Percent of GDP,
+616,BWA,GGX,Botswana,National currency,Billions
+616,BWA,GGX_NGDP,Botswana,Percent of GDP,
+616,BWA,GGXCNL,Botswana,National currency,Billions
+616,BWA,GGXCNL_NGDP,Botswana,Percent of GDP,
+616,BWA,GGSB,Botswana,National currency,Billions
+616,BWA,GGSB_NPGDP,Botswana,Percent of potential GDP,
+616,BWA,GGXONLB,Botswana,National currency,Billions
+616,BWA,GGXONLB_NGDP,Botswana,Percent of GDP,
+616,BWA,GGXWDN,Botswana,National currency,Billions
+616,BWA,GGXWDN_NGDP,Botswana,Percent of GDP,
+616,BWA,GGXWDG,Botswana,National currency,Billions
+616,BWA,GGXWDG_NGDP,Botswana,Percent of GDP,
+616,BWA,NGDP_FY,Botswana,National currency,Billions
+616,BWA,BCA,Botswana,U.S. dollars,Billions
+616,BWA,BCA_NGDPD,Botswana,Percent of GDP,
+223,BRA,NGDP_R,Brazil,National currency,Billions
+223,BRA,NGDP_RPCH,Brazil,Percent change,
+223,BRA,NGDP,Brazil,National currency,Billions
+223,BRA,NGDPD,Brazil,U.S. dollars,Billions
+223,BRA,PPPGDP,Brazil,Purchasing power parity; international dollars,Billions
+223,BRA,NGDP_D,Brazil,Index,
+223,BRA,NGDPRPC,Brazil,National currency,Units
+223,BRA,NGDPRPPPPC,Brazil,Purchasing power parity; 2011 international dollar,Units
+223,BRA,NGDPPC,Brazil,National currency,Units
+223,BRA,NGDPDPC,Brazil,U.S. dollars,Units
+223,BRA,PPPPC,Brazil,Purchasing power parity; international dollars,Units
+223,BRA,NGAP_NPGDP,Brazil,Percent of potential GDP,
+223,BRA,PPPSH,Brazil,Percent,
+223,BRA,PPPEX,Brazil,National currency per current international dollar,
+223,BRA,NID_NGDP,Brazil,Percent of GDP,
+223,BRA,NGSD_NGDP,Brazil,Percent of GDP,
+223,BRA,PCPI,Brazil,Index,
+223,BRA,PCPIPCH,Brazil,Percent change,
+223,BRA,PCPIE,Brazil,Index,
+223,BRA,PCPIEPCH,Brazil,Percent change,
+223,BRA,FLIBOR6,Brazil,Percent,
+223,BRA,TM_RPCH,Brazil,Percent change,
+223,BRA,TMG_RPCH,Brazil,Percent change,
+223,BRA,TX_RPCH,Brazil,Percent change,
+223,BRA,TXG_RPCH,Brazil,Percent change,
+223,BRA,LUR,Brazil,Percent of total labor force,
+223,BRA,LE,Brazil,Persons,Millions
+223,BRA,LP,Brazil,Persons,Millions
+223,BRA,GGR,Brazil,National currency,Billions
+223,BRA,GGR_NGDP,Brazil,Percent of GDP,
+223,BRA,GGX,Brazil,National currency,Billions
+223,BRA,GGX_NGDP,Brazil,Percent of GDP,
+223,BRA,GGXCNL,Brazil,National currency,Billions
+223,BRA,GGXCNL_NGDP,Brazil,Percent of GDP,
+223,BRA,GGSB,Brazil,National currency,Billions
+223,BRA,GGSB_NPGDP,Brazil,Percent of potential GDP,
+223,BRA,GGXONLB,Brazil,National currency,Billions
+223,BRA,GGXONLB_NGDP,Brazil,Percent of GDP,
+223,BRA,GGXWDN,Brazil,National currency,Billions
+223,BRA,GGXWDN_NGDP,Brazil,Percent of GDP,
+223,BRA,GGXWDG,Brazil,National currency,Billions
+223,BRA,GGXWDG_NGDP,Brazil,Percent of GDP,
+223,BRA,NGDP_FY,Brazil,National currency,Billions
+223,BRA,BCA,Brazil,U.S. dollars,Billions
+223,BRA,BCA_NGDPD,Brazil,Percent of GDP,
+516,BRN,NGDP_R,Brunei Darussalam,National currency,Billions
+516,BRN,NGDP_RPCH,Brunei Darussalam,Percent change,
+516,BRN,NGDP,Brunei Darussalam,National currency,Billions
+516,BRN,NGDPD,Brunei Darussalam,U.S. dollars,Billions
+516,BRN,PPPGDP,Brunei Darussalam,Purchasing power parity; international dollars,Billions
+516,BRN,NGDP_D,Brunei Darussalam,Index,
+516,BRN,NGDPRPC,Brunei Darussalam,National currency,Units
+516,BRN,NGDPRPPPPC,Brunei Darussalam,Purchasing power parity; 2011 international dollar,Units
+516,BRN,NGDPPC,Brunei Darussalam,National currency,Units
+516,BRN,NGDPDPC,Brunei Darussalam,U.S. dollars,Units
+516,BRN,PPPPC,Brunei Darussalam,Purchasing power parity; international dollars,Units
+516,BRN,NGAP_NPGDP,Brunei Darussalam,Percent of potential GDP,
+516,BRN,PPPSH,Brunei Darussalam,Percent,
+516,BRN,PPPEX,Brunei Darussalam,National currency per current international dollar,
+516,BRN,NID_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,NGSD_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,PCPI,Brunei Darussalam,Index,
+516,BRN,PCPIPCH,Brunei Darussalam,Percent change,
+516,BRN,PCPIE,Brunei Darussalam,Index,
+516,BRN,PCPIEPCH,Brunei Darussalam,Percent change,
+516,BRN,FLIBOR6,Brunei Darussalam,Percent,
+516,BRN,TM_RPCH,Brunei Darussalam,Percent change,
+516,BRN,TMG_RPCH,Brunei Darussalam,Percent change,
+516,BRN,TX_RPCH,Brunei Darussalam,Percent change,
+516,BRN,TXG_RPCH,Brunei Darussalam,Percent change,
+516,BRN,LUR,Brunei Darussalam,Percent of total labor force,
+516,BRN,LE,Brunei Darussalam,Persons,Millions
+516,BRN,LP,Brunei Darussalam,Persons,Millions
+516,BRN,GGR,Brunei Darussalam,National currency,Billions
+516,BRN,GGR_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,GGX,Brunei Darussalam,National currency,Billions
+516,BRN,GGX_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,GGXCNL,Brunei Darussalam,National currency,Billions
+516,BRN,GGXCNL_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,GGSB,Brunei Darussalam,National currency,Billions
+516,BRN,GGSB_NPGDP,Brunei Darussalam,Percent of potential GDP,
+516,BRN,GGXONLB,Brunei Darussalam,National currency,Billions
+516,BRN,GGXONLB_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,GGXWDN,Brunei Darussalam,National currency,Billions
+516,BRN,GGXWDN_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,GGXWDG,Brunei Darussalam,National currency,Billions
+516,BRN,GGXWDG_NGDP,Brunei Darussalam,Percent of GDP,
+516,BRN,NGDP_FY,Brunei Darussalam,National currency,Billions
+516,BRN,BCA,Brunei Darussalam,U.S. dollars,Billions
+516,BRN,BCA_NGDPD,Brunei Darussalam,Percent of GDP,
+918,BGR,NGDP_R,Bulgaria,National currency,Billions
+918,BGR,NGDP_RPCH,Bulgaria,Percent change,
+918,BGR,NGDP,Bulgaria,National currency,Billions
+918,BGR,NGDPD,Bulgaria,U.S. dollars,Billions
+918,BGR,PPPGDP,Bulgaria,Purchasing power parity; international dollars,Billions
+918,BGR,NGDP_D,Bulgaria,Index,
+918,BGR,NGDPRPC,Bulgaria,National currency,Units
+918,BGR,NGDPRPPPPC,Bulgaria,Purchasing power parity; 2011 international dollar,Units
+918,BGR,NGDPPC,Bulgaria,National currency,Units
+918,BGR,NGDPDPC,Bulgaria,U.S. dollars,Units
+918,BGR,PPPPC,Bulgaria,Purchasing power parity; international dollars,Units
+918,BGR,NGAP_NPGDP,Bulgaria,Percent of potential GDP,
+918,BGR,PPPSH,Bulgaria,Percent,
+918,BGR,PPPEX,Bulgaria,National currency per current international dollar,
+918,BGR,NID_NGDP,Bulgaria,Percent of GDP,
+918,BGR,NGSD_NGDP,Bulgaria,Percent of GDP,
+918,BGR,PCPI,Bulgaria,Index,
+918,BGR,PCPIPCH,Bulgaria,Percent change,
+918,BGR,PCPIE,Bulgaria,Index,
+918,BGR,PCPIEPCH,Bulgaria,Percent change,
+918,BGR,FLIBOR6,Bulgaria,Percent,
+918,BGR,TM_RPCH,Bulgaria,Percent change,
+918,BGR,TMG_RPCH,Bulgaria,Percent change,
+918,BGR,TX_RPCH,Bulgaria,Percent change,
+918,BGR,TXG_RPCH,Bulgaria,Percent change,
+918,BGR,LUR,Bulgaria,Percent of total labor force,
+918,BGR,LE,Bulgaria,Persons,Millions
+918,BGR,LP,Bulgaria,Persons,Millions
+918,BGR,GGR,Bulgaria,National currency,Billions
+918,BGR,GGR_NGDP,Bulgaria,Percent of GDP,
+918,BGR,GGX,Bulgaria,National currency,Billions
+918,BGR,GGX_NGDP,Bulgaria,Percent of GDP,
+918,BGR,GGXCNL,Bulgaria,National currency,Billions
+918,BGR,GGXCNL_NGDP,Bulgaria,Percent of GDP,
+918,BGR,GGSB,Bulgaria,National currency,Billions
+918,BGR,GGSB_NPGDP,Bulgaria,Percent of potential GDP,
+918,BGR,GGXONLB,Bulgaria,National currency,Billions
+918,BGR,GGXONLB_NGDP,Bulgaria,Percent of GDP,
+918,BGR,GGXWDN,Bulgaria,National currency,Billions
+918,BGR,GGXWDN_NGDP,Bulgaria,Percent of GDP,
+918,BGR,GGXWDG,Bulgaria,National currency,Billions
+918,BGR,GGXWDG_NGDP,Bulgaria,Percent of GDP,
+918,BGR,NGDP_FY,Bulgaria,National currency,Billions
+918,BGR,BCA,Bulgaria,U.S. dollars,Billions
+918,BGR,BCA_NGDPD,Bulgaria,Percent of GDP,
+748,BFA,NGDP_R,Burkina Faso,National currency,Billions
+748,BFA,NGDP_RPCH,Burkina Faso,Percent change,
+748,BFA,NGDP,Burkina Faso,National currency,Billions
+748,BFA,NGDPD,Burkina Faso,U.S. dollars,Billions
+748,BFA,PPPGDP,Burkina Faso,Purchasing power parity; international dollars,Billions
+748,BFA,NGDP_D,Burkina Faso,Index,
+748,BFA,NGDPRPC,Burkina Faso,National currency,Units
+748,BFA,NGDPRPPPPC,Burkina Faso,Purchasing power parity; 2011 international dollar,Units
+748,BFA,NGDPPC,Burkina Faso,National currency,Units
+748,BFA,NGDPDPC,Burkina Faso,U.S. dollars,Units
+748,BFA,PPPPC,Burkina Faso,Purchasing power parity; international dollars,Units
+748,BFA,NGAP_NPGDP,Burkina Faso,Percent of potential GDP,
+748,BFA,PPPSH,Burkina Faso,Percent,
+748,BFA,PPPEX,Burkina Faso,National currency per current international dollar,
+748,BFA,NID_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,NGSD_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,PCPI,Burkina Faso,Index,
+748,BFA,PCPIPCH,Burkina Faso,Percent change,
+748,BFA,PCPIE,Burkina Faso,Index,
+748,BFA,PCPIEPCH,Burkina Faso,Percent change,
+748,BFA,FLIBOR6,Burkina Faso,Percent,
+748,BFA,TM_RPCH,Burkina Faso,Percent change,
+748,BFA,TMG_RPCH,Burkina Faso,Percent change,
+748,BFA,TX_RPCH,Burkina Faso,Percent change,
+748,BFA,TXG_RPCH,Burkina Faso,Percent change,
+748,BFA,LUR,Burkina Faso,Percent of total labor force,
+748,BFA,LE,Burkina Faso,Persons,Millions
+748,BFA,LP,Burkina Faso,Persons,Millions
+748,BFA,GGR,Burkina Faso,National currency,Billions
+748,BFA,GGR_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,GGX,Burkina Faso,National currency,Billions
+748,BFA,GGX_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,GGXCNL,Burkina Faso,National currency,Billions
+748,BFA,GGXCNL_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,GGSB,Burkina Faso,National currency,Billions
+748,BFA,GGSB_NPGDP,Burkina Faso,Percent of potential GDP,
+748,BFA,GGXONLB,Burkina Faso,National currency,Billions
+748,BFA,GGXONLB_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,GGXWDN,Burkina Faso,National currency,Billions
+748,BFA,GGXWDN_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,GGXWDG,Burkina Faso,National currency,Billions
+748,BFA,GGXWDG_NGDP,Burkina Faso,Percent of GDP,
+748,BFA,NGDP_FY,Burkina Faso,National currency,Billions
+748,BFA,BCA,Burkina Faso,U.S. dollars,Billions
+748,BFA,BCA_NGDPD,Burkina Faso,Percent of GDP,
+618,BDI,NGDP_R,Burundi,National currency,Billions
+618,BDI,NGDP_RPCH,Burundi,Percent change,
+618,BDI,NGDP,Burundi,National currency,Billions
+618,BDI,NGDPD,Burundi,U.S. dollars,Billions
+618,BDI,PPPGDP,Burundi,Purchasing power parity; international dollars,Billions
+618,BDI,NGDP_D,Burundi,Index,
+618,BDI,NGDPRPC,Burundi,National currency,Units
+618,BDI,NGDPRPPPPC,Burundi,Purchasing power parity; 2011 international dollar,Units
+618,BDI,NGDPPC,Burundi,National currency,Units
+618,BDI,NGDPDPC,Burundi,U.S. dollars,Units
+618,BDI,PPPPC,Burundi,Purchasing power parity; international dollars,Units
+618,BDI,NGAP_NPGDP,Burundi,Percent of potential GDP,
+618,BDI,PPPSH,Burundi,Percent,
+618,BDI,PPPEX,Burundi,National currency per current international dollar,
+618,BDI,NID_NGDP,Burundi,Percent of GDP,
+618,BDI,NGSD_NGDP,Burundi,Percent of GDP,
+618,BDI,PCPI,Burundi,Index,
+618,BDI,PCPIPCH,Burundi,Percent change,
+618,BDI,PCPIE,Burundi,Index,
+618,BDI,PCPIEPCH,Burundi,Percent change,
+618,BDI,FLIBOR6,Burundi,Percent,
+618,BDI,TM_RPCH,Burundi,Percent change,
+618,BDI,TMG_RPCH,Burundi,Percent change,
+618,BDI,TX_RPCH,Burundi,Percent change,
+618,BDI,TXG_RPCH,Burundi,Percent change,
+618,BDI,LUR,Burundi,Percent of total labor force,
+618,BDI,LE,Burundi,Persons,Millions
+618,BDI,LP,Burundi,Persons,Millions
+618,BDI,GGR,Burundi,National currency,Billions
+618,BDI,GGR_NGDP,Burundi,Percent of GDP,
+618,BDI,GGX,Burundi,National currency,Billions
+618,BDI,GGX_NGDP,Burundi,Percent of GDP,
+618,BDI,GGXCNL,Burundi,National currency,Billions
+618,BDI,GGXCNL_NGDP,Burundi,Percent of GDP,
+618,BDI,GGSB,Burundi,National currency,Billions
+618,BDI,GGSB_NPGDP,Burundi,Percent of potential GDP,
+618,BDI,GGXONLB,Burundi,National currency,Billions
+618,BDI,GGXONLB_NGDP,Burundi,Percent of GDP,
+618,BDI,GGXWDN,Burundi,National currency,Billions
+618,BDI,GGXWDN_NGDP,Burundi,Percent of GDP,
+618,BDI,GGXWDG,Burundi,National currency,Billions
+618,BDI,GGXWDG_NGDP,Burundi,Percent of GDP,
+618,BDI,NGDP_FY,Burundi,National currency,Billions
+618,BDI,BCA,Burundi,U.S. dollars,Billions
+618,BDI,BCA_NGDPD,Burundi,Percent of GDP,
+624,CPV,NGDP_R,Cabo Verde,National currency,Billions
+624,CPV,NGDP_RPCH,Cabo Verde,Percent change,
+624,CPV,NGDP,Cabo Verde,National currency,Billions
+624,CPV,NGDPD,Cabo Verde,U.S. dollars,Billions
+624,CPV,PPPGDP,Cabo Verde,Purchasing power parity; international dollars,Billions
+624,CPV,NGDP_D,Cabo Verde,Index,
+624,CPV,NGDPRPC,Cabo Verde,National currency,Units
+624,CPV,NGDPRPPPPC,Cabo Verde,Purchasing power parity; 2011 international dollar,Units
+624,CPV,NGDPPC,Cabo Verde,National currency,Units
+624,CPV,NGDPDPC,Cabo Verde,U.S. dollars,Units
+624,CPV,PPPPC,Cabo Verde,Purchasing power parity; international dollars,Units
+624,CPV,NGAP_NPGDP,Cabo Verde,Percent of potential GDP,
+624,CPV,PPPSH,Cabo Verde,Percent,
+624,CPV,PPPEX,Cabo Verde,National currency per current international dollar,
+624,CPV,NID_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,NGSD_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,PCPI,Cabo Verde,Index,
+624,CPV,PCPIPCH,Cabo Verde,Percent change,
+624,CPV,PCPIE,Cabo Verde,Index,
+624,CPV,PCPIEPCH,Cabo Verde,Percent change,
+624,CPV,FLIBOR6,Cabo Verde,Percent,
+624,CPV,TM_RPCH,Cabo Verde,Percent change,
+624,CPV,TMG_RPCH,Cabo Verde,Percent change,
+624,CPV,TX_RPCH,Cabo Verde,Percent change,
+624,CPV,TXG_RPCH,Cabo Verde,Percent change,
+624,CPV,LUR,Cabo Verde,Percent of total labor force,
+624,CPV,LE,Cabo Verde,Persons,Millions
+624,CPV,LP,Cabo Verde,Persons,Millions
+624,CPV,GGR,Cabo Verde,National currency,Billions
+624,CPV,GGR_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,GGX,Cabo Verde,National currency,Billions
+624,CPV,GGX_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,GGXCNL,Cabo Verde,National currency,Billions
+624,CPV,GGXCNL_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,GGSB,Cabo Verde,National currency,Billions
+624,CPV,GGSB_NPGDP,Cabo Verde,Percent of potential GDP,
+624,CPV,GGXONLB,Cabo Verde,National currency,Billions
+624,CPV,GGXONLB_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,GGXWDN,Cabo Verde,National currency,Billions
+624,CPV,GGXWDN_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,GGXWDG,Cabo Verde,National currency,Billions
+624,CPV,GGXWDG_NGDP,Cabo Verde,Percent of GDP,
+624,CPV,NGDP_FY,Cabo Verde,National currency,Billions
+624,CPV,BCA,Cabo Verde,U.S. dollars,Billions
+624,CPV,BCA_NGDPD,Cabo Verde,Percent of GDP,
+522,KHM,NGDP_R,Cambodia,National currency,Billions
+522,KHM,NGDP_RPCH,Cambodia,Percent change,
+522,KHM,NGDP,Cambodia,National currency,Billions
+522,KHM,NGDPD,Cambodia,U.S. dollars,Billions
+522,KHM,PPPGDP,Cambodia,Purchasing power parity; international dollars,Billions
+522,KHM,NGDP_D,Cambodia,Index,
+522,KHM,NGDPRPC,Cambodia,National currency,Units
+522,KHM,NGDPRPPPPC,Cambodia,Purchasing power parity; 2011 international dollar,Units
+522,KHM,NGDPPC,Cambodia,National currency,Units
+522,KHM,NGDPDPC,Cambodia,U.S. dollars,Units
+522,KHM,PPPPC,Cambodia,Purchasing power parity; international dollars,Units
+522,KHM,NGAP_NPGDP,Cambodia,Percent of potential GDP,
+522,KHM,PPPSH,Cambodia,Percent,
+522,KHM,PPPEX,Cambodia,National currency per current international dollar,
+522,KHM,NID_NGDP,Cambodia,Percent of GDP,
+522,KHM,NGSD_NGDP,Cambodia,Percent of GDP,
+522,KHM,PCPI,Cambodia,Index,
+522,KHM,PCPIPCH,Cambodia,Percent change,
+522,KHM,PCPIE,Cambodia,Index,
+522,KHM,PCPIEPCH,Cambodia,Percent change,
+522,KHM,FLIBOR6,Cambodia,Percent,
+522,KHM,TM_RPCH,Cambodia,Percent change,
+522,KHM,TMG_RPCH,Cambodia,Percent change,
+522,KHM,TX_RPCH,Cambodia,Percent change,
+522,KHM,TXG_RPCH,Cambodia,Percent change,
+522,KHM,LUR,Cambodia,Percent of total labor force,
+522,KHM,LE,Cambodia,Persons,Millions
+522,KHM,LP,Cambodia,Persons,Millions
+522,KHM,GGR,Cambodia,National currency,Billions
+522,KHM,GGR_NGDP,Cambodia,Percent of GDP,
+522,KHM,GGX,Cambodia,National currency,Billions
+522,KHM,GGX_NGDP,Cambodia,Percent of GDP,
+522,KHM,GGXCNL,Cambodia,National currency,Billions
+522,KHM,GGXCNL_NGDP,Cambodia,Percent of GDP,
+522,KHM,GGSB,Cambodia,National currency,Billions
+522,KHM,GGSB_NPGDP,Cambodia,Percent of potential GDP,
+522,KHM,GGXONLB,Cambodia,National currency,Billions
+522,KHM,GGXONLB_NGDP,Cambodia,Percent of GDP,
+522,KHM,GGXWDN,Cambodia,National currency,Billions
+522,KHM,GGXWDN_NGDP,Cambodia,Percent of GDP,
+522,KHM,GGXWDG,Cambodia,National currency,Billions
+522,KHM,GGXWDG_NGDP,Cambodia,Percent of GDP,
+522,KHM,NGDP_FY,Cambodia,National currency,Billions
+522,KHM,BCA,Cambodia,U.S. dollars,Billions
+522,KHM,BCA_NGDPD,Cambodia,Percent of GDP,
+622,CMR,NGDP_R,Cameroon,National currency,Billions
+622,CMR,NGDP_RPCH,Cameroon,Percent change,
+622,CMR,NGDP,Cameroon,National currency,Billions
+622,CMR,NGDPD,Cameroon,U.S. dollars,Billions
+622,CMR,PPPGDP,Cameroon,Purchasing power parity; international dollars,Billions
+622,CMR,NGDP_D,Cameroon,Index,
+622,CMR,NGDPRPC,Cameroon,National currency,Units
+622,CMR,NGDPRPPPPC,Cameroon,Purchasing power parity; 2011 international dollar,Units
+622,CMR,NGDPPC,Cameroon,National currency,Units
+622,CMR,NGDPDPC,Cameroon,U.S. dollars,Units
+622,CMR,PPPPC,Cameroon,Purchasing power parity; international dollars,Units
+622,CMR,NGAP_NPGDP,Cameroon,Percent of potential GDP,
+622,CMR,PPPSH,Cameroon,Percent,
+622,CMR,PPPEX,Cameroon,National currency per current international dollar,
+622,CMR,NID_NGDP,Cameroon,Percent of GDP,
+622,CMR,NGSD_NGDP,Cameroon,Percent of GDP,
+622,CMR,PCPI,Cameroon,Index,
+622,CMR,PCPIPCH,Cameroon,Percent change,
+622,CMR,PCPIE,Cameroon,Index,
+622,CMR,PCPIEPCH,Cameroon,Percent change,
+622,CMR,FLIBOR6,Cameroon,Percent,
+622,CMR,TM_RPCH,Cameroon,Percent change,
+622,CMR,TMG_RPCH,Cameroon,Percent change,
+622,CMR,TX_RPCH,Cameroon,Percent change,
+622,CMR,TXG_RPCH,Cameroon,Percent change,
+622,CMR,LUR,Cameroon,Percent of total labor force,
+622,CMR,LE,Cameroon,Persons,Millions
+622,CMR,LP,Cameroon,Persons,Millions
+622,CMR,GGR,Cameroon,National currency,Billions
+622,CMR,GGR_NGDP,Cameroon,Percent of GDP,
+622,CMR,GGX,Cameroon,National currency,Billions
+622,CMR,GGX_NGDP,Cameroon,Percent of GDP,
+622,CMR,GGXCNL,Cameroon,National currency,Billions
+622,CMR,GGXCNL_NGDP,Cameroon,Percent of GDP,
+622,CMR,GGSB,Cameroon,National currency,Billions
+622,CMR,GGSB_NPGDP,Cameroon,Percent of potential GDP,
+622,CMR,GGXONLB,Cameroon,National currency,Billions
+622,CMR,GGXONLB_NGDP,Cameroon,Percent of GDP,
+622,CMR,GGXWDN,Cameroon,National currency,Billions
+622,CMR,GGXWDN_NGDP,Cameroon,Percent of GDP,
+622,CMR,GGXWDG,Cameroon,National currency,Billions
+622,CMR,GGXWDG_NGDP,Cameroon,Percent of GDP,
+622,CMR,NGDP_FY,Cameroon,National currency,Billions
+622,CMR,BCA,Cameroon,U.S. dollars,Billions
+622,CMR,BCA_NGDPD,Cameroon,Percent of GDP,
+156,CAN,NGDP_R,Canada,National currency,Billions
+156,CAN,NGDP_RPCH,Canada,Percent change,
+156,CAN,NGDP,Canada,National currency,Billions
+156,CAN,NGDPD,Canada,U.S. dollars,Billions
+156,CAN,PPPGDP,Canada,Purchasing power parity; international dollars,Billions
+156,CAN,NGDP_D,Canada,Index,
+156,CAN,NGDPRPC,Canada,National currency,Units
+156,CAN,NGDPRPPPPC,Canada,Purchasing power parity; 2011 international dollar,Units
+156,CAN,NGDPPC,Canada,National currency,Units
+156,CAN,NGDPDPC,Canada,U.S. dollars,Units
+156,CAN,PPPPC,Canada,Purchasing power parity; international dollars,Units
+156,CAN,NGAP_NPGDP,Canada,Percent of potential GDP,
+156,CAN,PPPSH,Canada,Percent,
+156,CAN,PPPEX,Canada,National currency per current international dollar,
+156,CAN,NID_NGDP,Canada,Percent of GDP,
+156,CAN,NGSD_NGDP,Canada,Percent of GDP,
+156,CAN,PCPI,Canada,Index,
+156,CAN,PCPIPCH,Canada,Percent change,
+156,CAN,PCPIE,Canada,Index,
+156,CAN,PCPIEPCH,Canada,Percent change,
+156,CAN,FLIBOR6,Canada,Percent,
+156,CAN,TM_RPCH,Canada,Percent change,
+156,CAN,TMG_RPCH,Canada,Percent change,
+156,CAN,TX_RPCH,Canada,Percent change,
+156,CAN,TXG_RPCH,Canada,Percent change,
+156,CAN,LUR,Canada,Percent of total labor force,
+156,CAN,LE,Canada,Persons,Millions
+156,CAN,LP,Canada,Persons,Millions
+156,CAN,GGR,Canada,National currency,Billions
+156,CAN,GGR_NGDP,Canada,Percent of GDP,
+156,CAN,GGX,Canada,National currency,Billions
+156,CAN,GGX_NGDP,Canada,Percent of GDP,
+156,CAN,GGXCNL,Canada,National currency,Billions
+156,CAN,GGXCNL_NGDP,Canada,Percent of GDP,
+156,CAN,GGSB,Canada,National currency,Billions
+156,CAN,GGSB_NPGDP,Canada,Percent of potential GDP,
+156,CAN,GGXONLB,Canada,National currency,Billions
+156,CAN,GGXONLB_NGDP,Canada,Percent of GDP,
+156,CAN,GGXWDN,Canada,National currency,Billions
+156,CAN,GGXWDN_NGDP,Canada,Percent of GDP,
+156,CAN,GGXWDG,Canada,National currency,Billions
+156,CAN,GGXWDG_NGDP,Canada,Percent of GDP,
+156,CAN,NGDP_FY,Canada,National currency,Billions
+156,CAN,BCA,Canada,U.S. dollars,Billions
+156,CAN,BCA_NGDPD,Canada,Percent of GDP,
+626,CAF,NGDP_R,Central African Republic,National currency,Billions
+626,CAF,NGDP_RPCH,Central African Republic,Percent change,
+626,CAF,NGDP,Central African Republic,National currency,Billions
+626,CAF,NGDPD,Central African Republic,U.S. dollars,Billions
+626,CAF,PPPGDP,Central African Republic,Purchasing power parity; international dollars,Billions
+626,CAF,NGDP_D,Central African Republic,Index,
+626,CAF,NGDPRPC,Central African Republic,National currency,Units
+626,CAF,NGDPRPPPPC,Central African Republic,Purchasing power parity; 2011 international dollar,Units
+626,CAF,NGDPPC,Central African Republic,National currency,Units
+626,CAF,NGDPDPC,Central African Republic,U.S. dollars,Units
+626,CAF,PPPPC,Central African Republic,Purchasing power parity; international dollars,Units
+626,CAF,NGAP_NPGDP,Central African Republic,Percent of potential GDP,
+626,CAF,PPPSH,Central African Republic,Percent,
+626,CAF,PPPEX,Central African Republic,National currency per current international dollar,
+626,CAF,NID_NGDP,Central African Republic,Percent of GDP,
+626,CAF,NGSD_NGDP,Central African Republic,Percent of GDP,
+626,CAF,PCPI,Central African Republic,Index,
+626,CAF,PCPIPCH,Central African Republic,Percent change,
+626,CAF,PCPIE,Central African Republic,Index,
+626,CAF,PCPIEPCH,Central African Republic,Percent change,
+626,CAF,FLIBOR6,Central African Republic,Percent,
+626,CAF,TM_RPCH,Central African Republic,Percent change,
+626,CAF,TMG_RPCH,Central African Republic,Percent change,
+626,CAF,TX_RPCH,Central African Republic,Percent change,
+626,CAF,TXG_RPCH,Central African Republic,Percent change,
+626,CAF,LUR,Central African Republic,Percent of total labor force,
+626,CAF,LE,Central African Republic,Persons,Millions
+626,CAF,LP,Central African Republic,Persons,Millions
+626,CAF,GGR,Central African Republic,National currency,Billions
+626,CAF,GGR_NGDP,Central African Republic,Percent of GDP,
+626,CAF,GGX,Central African Republic,National currency,Billions
+626,CAF,GGX_NGDP,Central African Republic,Percent of GDP,
+626,CAF,GGXCNL,Central African Republic,National currency,Billions
+626,CAF,GGXCNL_NGDP,Central African Republic,Percent of GDP,
+626,CAF,GGSB,Central African Republic,National currency,Billions
+626,CAF,GGSB_NPGDP,Central African Republic,Percent of potential GDP,
+626,CAF,GGXONLB,Central African Republic,National currency,Billions
+626,CAF,GGXONLB_NGDP,Central African Republic,Percent of GDP,
+626,CAF,GGXWDN,Central African Republic,National currency,Billions
+626,CAF,GGXWDN_NGDP,Central African Republic,Percent of GDP,
+626,CAF,GGXWDG,Central African Republic,National currency,Billions
+626,CAF,GGXWDG_NGDP,Central African Republic,Percent of GDP,
+626,CAF,NGDP_FY,Central African Republic,National currency,Billions
+626,CAF,BCA,Central African Republic,U.S. dollars,Billions
+626,CAF,BCA_NGDPD,Central African Republic,Percent of GDP,
+628,TCD,NGDP_R,Chad,National currency,Billions
+628,TCD,NGDP_RPCH,Chad,Percent change,
+628,TCD,NGDP,Chad,National currency,Billions
+628,TCD,NGDPD,Chad,U.S. dollars,Billions
+628,TCD,PPPGDP,Chad,Purchasing power parity; international dollars,Billions
+628,TCD,NGDP_D,Chad,Index,
+628,TCD,NGDPRPC,Chad,National currency,Units
+628,TCD,NGDPRPPPPC,Chad,Purchasing power parity; 2011 international dollar,Units
+628,TCD,NGDPPC,Chad,National currency,Units
+628,TCD,NGDPDPC,Chad,U.S. dollars,Units
+628,TCD,PPPPC,Chad,Purchasing power parity; international dollars,Units
+628,TCD,NGAP_NPGDP,Chad,Percent of potential GDP,
+628,TCD,PPPSH,Chad,Percent,
+628,TCD,PPPEX,Chad,National currency per current international dollar,
+628,TCD,NID_NGDP,Chad,Percent of GDP,
+628,TCD,NGSD_NGDP,Chad,Percent of GDP,
+628,TCD,PCPI,Chad,Index,
+628,TCD,PCPIPCH,Chad,Percent change,
+628,TCD,PCPIE,Chad,Index,
+628,TCD,PCPIEPCH,Chad,Percent change,
+628,TCD,FLIBOR6,Chad,Percent,
+628,TCD,TM_RPCH,Chad,Percent change,
+628,TCD,TMG_RPCH,Chad,Percent change,
+628,TCD,TX_RPCH,Chad,Percent change,
+628,TCD,TXG_RPCH,Chad,Percent change,
+628,TCD,LUR,Chad,Percent of total labor force,
+628,TCD,LE,Chad,Persons,Millions
+628,TCD,LP,Chad,Persons,Millions
+628,TCD,GGR,Chad,National currency,Billions
+628,TCD,GGR_NGDP,Chad,Percent of GDP,
+628,TCD,GGX,Chad,National currency,Billions
+628,TCD,GGX_NGDP,Chad,Percent of GDP,
+628,TCD,GGXCNL,Chad,National currency,Billions
+628,TCD,GGXCNL_NGDP,Chad,Percent of GDP,
+628,TCD,GGSB,Chad,National currency,Billions
+628,TCD,GGSB_NPGDP,Chad,Percent of potential GDP,
+628,TCD,GGXONLB,Chad,National currency,Billions
+628,TCD,GGXONLB_NGDP,Chad,Percent of GDP,
+628,TCD,GGXWDN,Chad,National currency,Billions
+628,TCD,GGXWDN_NGDP,Chad,Percent of GDP,
+628,TCD,GGXWDG,Chad,National currency,Billions
+628,TCD,GGXWDG_NGDP,Chad,Percent of GDP,
+628,TCD,NGDP_FY,Chad,National currency,Billions
+628,TCD,BCA,Chad,U.S. dollars,Billions
+628,TCD,BCA_NGDPD,Chad,Percent of GDP,
+228,CHL,NGDP_R,Chile,National currency,Billions
+228,CHL,NGDP_RPCH,Chile,Percent change,
+228,CHL,NGDP,Chile,National currency,Billions
+228,CHL,NGDPD,Chile,U.S. dollars,Billions
+228,CHL,PPPGDP,Chile,Purchasing power parity; international dollars,Billions
+228,CHL,NGDP_D,Chile,Index,
+228,CHL,NGDPRPC,Chile,National currency,Units
+228,CHL,NGDPRPPPPC,Chile,Purchasing power parity; 2011 international dollar,Units
+228,CHL,NGDPPC,Chile,National currency,Units
+228,CHL,NGDPDPC,Chile,U.S. dollars,Units
+228,CHL,PPPPC,Chile,Purchasing power parity; international dollars,Units
+228,CHL,NGAP_NPGDP,Chile,Percent of potential GDP,
+228,CHL,PPPSH,Chile,Percent,
+228,CHL,PPPEX,Chile,National currency per current international dollar,
+228,CHL,NID_NGDP,Chile,Percent of GDP,
+228,CHL,NGSD_NGDP,Chile,Percent of GDP,
+228,CHL,PCPI,Chile,Index,
+228,CHL,PCPIPCH,Chile,Percent change,
+228,CHL,PCPIE,Chile,Index,
+228,CHL,PCPIEPCH,Chile,Percent change,
+228,CHL,FLIBOR6,Chile,Percent,
+228,CHL,TM_RPCH,Chile,Percent change,
+228,CHL,TMG_RPCH,Chile,Percent change,
+228,CHL,TX_RPCH,Chile,Percent change,
+228,CHL,TXG_RPCH,Chile,Percent change,
+228,CHL,LUR,Chile,Percent of total labor force,
+228,CHL,LE,Chile,Persons,Millions
+228,CHL,LP,Chile,Persons,Millions
+228,CHL,GGR,Chile,National currency,Billions
+228,CHL,GGR_NGDP,Chile,Percent of GDP,
+228,CHL,GGX,Chile,National currency,Billions
+228,CHL,GGX_NGDP,Chile,Percent of GDP,
+228,CHL,GGXCNL,Chile,National currency,Billions
+228,CHL,GGXCNL_NGDP,Chile,Percent of GDP,
+228,CHL,GGSB,Chile,National currency,Billions
+228,CHL,GGSB_NPGDP,Chile,Percent of potential GDP,
+228,CHL,GGXONLB,Chile,National currency,Billions
+228,CHL,GGXONLB_NGDP,Chile,Percent of GDP,
+228,CHL,GGXWDN,Chile,National currency,Billions
+228,CHL,GGXWDN_NGDP,Chile,Percent of GDP,
+228,CHL,GGXWDG,Chile,National currency,Billions
+228,CHL,GGXWDG_NGDP,Chile,Percent of GDP,
+228,CHL,NGDP_FY,Chile,National currency,Billions
+228,CHL,BCA,Chile,U.S. dollars,Billions
+228,CHL,BCA_NGDPD,Chile,Percent of GDP,
+924,CHN,NGDP_R,China,National currency,Billions
+924,CHN,NGDP_RPCH,China,Percent change,
+924,CHN,NGDP,China,National currency,Billions
+924,CHN,NGDPD,China,U.S. dollars,Billions
+924,CHN,PPPGDP,China,Purchasing power parity; international dollars,Billions
+924,CHN,NGDP_D,China,Index,
+924,CHN,NGDPRPC,China,National currency,Units
+924,CHN,NGDPRPPPPC,China,Purchasing power parity; 2011 international dollar,Units
+924,CHN,NGDPPC,China,National currency,Units
+924,CHN,NGDPDPC,China,U.S. dollars,Units
+924,CHN,PPPPC,China,Purchasing power parity; international dollars,Units
+924,CHN,NGAP_NPGDP,China,Percent of potential GDP,
+924,CHN,PPPSH,China,Percent,
+924,CHN,PPPEX,China,National currency per current international dollar,
+924,CHN,NID_NGDP,China,Percent of GDP,
+924,CHN,NGSD_NGDP,China,Percent of GDP,
+924,CHN,PCPI,China,Index,
+924,CHN,PCPIPCH,China,Percent change,
+924,CHN,PCPIE,China,Index,
+924,CHN,PCPIEPCH,China,Percent change,
+924,CHN,FLIBOR6,China,Percent,
+924,CHN,TM_RPCH,China,Percent change,
+924,CHN,TMG_RPCH,China,Percent change,
+924,CHN,TX_RPCH,China,Percent change,
+924,CHN,TXG_RPCH,China,Percent change,
+924,CHN,LUR,China,Percent of total labor force,
+924,CHN,LE,China,Persons,Millions
+924,CHN,LP,China,Persons,Millions
+924,CHN,GGR,China,National currency,Billions
+924,CHN,GGR_NGDP,China,Percent of GDP,
+924,CHN,GGX,China,National currency,Billions
+924,CHN,GGX_NGDP,China,Percent of GDP,
+924,CHN,GGXCNL,China,National currency,Billions
+924,CHN,GGXCNL_NGDP,China,Percent of GDP,
+924,CHN,GGSB,China,National currency,Billions
+924,CHN,GGSB_NPGDP,China,Percent of potential GDP,
+924,CHN,GGXONLB,China,National currency,Billions
+924,CHN,GGXONLB_NGDP,China,Percent of GDP,
+924,CHN,GGXWDN,China,National currency,Billions
+924,CHN,GGXWDN_NGDP,China,Percent of GDP,
+924,CHN,GGXWDG,China,National currency,Billions
+924,CHN,GGXWDG_NGDP,China,Percent of GDP,
+924,CHN,NGDP_FY,China,National currency,Billions
+924,CHN,BCA,China,U.S. dollars,Billions
+924,CHN,BCA_NGDPD,China,Percent of GDP,
+233,COL,NGDP_R,Colombia,National currency,Billions
+233,COL,NGDP_RPCH,Colombia,Percent change,
+233,COL,NGDP,Colombia,National currency,Billions
+233,COL,NGDPD,Colombia,U.S. dollars,Billions
+233,COL,PPPGDP,Colombia,Purchasing power parity; international dollars,Billions
+233,COL,NGDP_D,Colombia,Index,
+233,COL,NGDPRPC,Colombia,National currency,Units
+233,COL,NGDPRPPPPC,Colombia,Purchasing power parity; 2011 international dollar,Units
+233,COL,NGDPPC,Colombia,National currency,Units
+233,COL,NGDPDPC,Colombia,U.S. dollars,Units
+233,COL,PPPPC,Colombia,Purchasing power parity; international dollars,Units
+233,COL,NGAP_NPGDP,Colombia,Percent of potential GDP,
+233,COL,PPPSH,Colombia,Percent,
+233,COL,PPPEX,Colombia,National currency per current international dollar,
+233,COL,NID_NGDP,Colombia,Percent of GDP,
+233,COL,NGSD_NGDP,Colombia,Percent of GDP,
+233,COL,PCPI,Colombia,Index,
+233,COL,PCPIPCH,Colombia,Percent change,
+233,COL,PCPIE,Colombia,Index,
+233,COL,PCPIEPCH,Colombia,Percent change,
+233,COL,FLIBOR6,Colombia,Percent,
+233,COL,TM_RPCH,Colombia,Percent change,
+233,COL,TMG_RPCH,Colombia,Percent change,
+233,COL,TX_RPCH,Colombia,Percent change,
+233,COL,TXG_RPCH,Colombia,Percent change,
+233,COL,LUR,Colombia,Percent of total labor force,
+233,COL,LE,Colombia,Persons,Millions
+233,COL,LP,Colombia,Persons,Millions
+233,COL,GGR,Colombia,National currency,Billions
+233,COL,GGR_NGDP,Colombia,Percent of GDP,
+233,COL,GGX,Colombia,National currency,Billions
+233,COL,GGX_NGDP,Colombia,Percent of GDP,
+233,COL,GGXCNL,Colombia,National currency,Billions
+233,COL,GGXCNL_NGDP,Colombia,Percent of GDP,
+233,COL,GGSB,Colombia,National currency,Billions
+233,COL,GGSB_NPGDP,Colombia,Percent of potential GDP,
+233,COL,GGXONLB,Colombia,National currency,Billions
+233,COL,GGXONLB_NGDP,Colombia,Percent of GDP,
+233,COL,GGXWDN,Colombia,National currency,Billions
+233,COL,GGXWDN_NGDP,Colombia,Percent of GDP,
+233,COL,GGXWDG,Colombia,National currency,Billions
+233,COL,GGXWDG_NGDP,Colombia,Percent of GDP,
+233,COL,NGDP_FY,Colombia,National currency,Billions
+233,COL,BCA,Colombia,U.S. dollars,Billions
+233,COL,BCA_NGDPD,Colombia,Percent of GDP,
+632,COM,NGDP_R,Comoros,National currency,Billions
+632,COM,NGDP_RPCH,Comoros,Percent change,
+632,COM,NGDP,Comoros,National currency,Billions
+632,COM,NGDPD,Comoros,U.S. dollars,Billions
+632,COM,PPPGDP,Comoros,Purchasing power parity; international dollars,Billions
+632,COM,NGDP_D,Comoros,Index,
+632,COM,NGDPRPC,Comoros,National currency,Units
+632,COM,NGDPRPPPPC,Comoros,Purchasing power parity; 2011 international dollar,Units
+632,COM,NGDPPC,Comoros,National currency,Units
+632,COM,NGDPDPC,Comoros,U.S. dollars,Units
+632,COM,PPPPC,Comoros,Purchasing power parity; international dollars,Units
+632,COM,NGAP_NPGDP,Comoros,Percent of potential GDP,
+632,COM,PPPSH,Comoros,Percent,
+632,COM,PPPEX,Comoros,National currency per current international dollar,
+632,COM,NID_NGDP,Comoros,Percent of GDP,
+632,COM,NGSD_NGDP,Comoros,Percent of GDP,
+632,COM,PCPI,Comoros,Index,
+632,COM,PCPIPCH,Comoros,Percent change,
+632,COM,PCPIE,Comoros,Index,
+632,COM,PCPIEPCH,Comoros,Percent change,
+632,COM,FLIBOR6,Comoros,Percent,
+632,COM,TM_RPCH,Comoros,Percent change,
+632,COM,TMG_RPCH,Comoros,Percent change,
+632,COM,TX_RPCH,Comoros,Percent change,
+632,COM,TXG_RPCH,Comoros,Percent change,
+632,COM,LUR,Comoros,Percent of total labor force,
+632,COM,LE,Comoros,Persons,Millions
+632,COM,LP,Comoros,Persons,Millions
+632,COM,GGR,Comoros,National currency,Billions
+632,COM,GGR_NGDP,Comoros,Percent of GDP,
+632,COM,GGX,Comoros,National currency,Billions
+632,COM,GGX_NGDP,Comoros,Percent of GDP,
+632,COM,GGXCNL,Comoros,National currency,Billions
+632,COM,GGXCNL_NGDP,Comoros,Percent of GDP,
+632,COM,GGSB,Comoros,National currency,Billions
+632,COM,GGSB_NPGDP,Comoros,Percent of potential GDP,
+632,COM,GGXONLB,Comoros,National currency,Billions
+632,COM,GGXONLB_NGDP,Comoros,Percent of GDP,
+632,COM,GGXWDN,Comoros,National currency,Billions
+632,COM,GGXWDN_NGDP,Comoros,Percent of GDP,
+632,COM,GGXWDG,Comoros,National currency,Billions
+632,COM,GGXWDG_NGDP,Comoros,Percent of GDP,
+632,COM,NGDP_FY,Comoros,National currency,Billions
+632,COM,BCA,Comoros,U.S. dollars,Billions
+632,COM,BCA_NGDPD,Comoros,Percent of GDP,
+636,COD,NGDP_R,Democratic Republic of the Congo,National currency,Billions
+636,COD,NGDP_RPCH,Democratic Republic of the Congo,Percent change,
+636,COD,NGDP,Democratic Republic of the Congo,National currency,Billions
+636,COD,NGDPD,Democratic Republic of the Congo,U.S. dollars,Billions
+636,COD,PPPGDP,Democratic Republic of the Congo,Purchasing power parity; international dollars,Billions
+636,COD,NGDP_D,Democratic Republic of the Congo,Index,
+636,COD,NGDPRPC,Democratic Republic of the Congo,National currency,Units
+636,COD,NGDPRPPPPC,Democratic Republic of the Congo,Purchasing power parity; 2011 international dollar,Units
+636,COD,NGDPPC,Democratic Republic of the Congo,National currency,Units
+636,COD,NGDPDPC,Democratic Republic of the Congo,U.S. dollars,Units
+636,COD,PPPPC,Democratic Republic of the Congo,Purchasing power parity; international dollars,Units
+636,COD,NGAP_NPGDP,Democratic Republic of the Congo,Percent of potential GDP,
+636,COD,PPPSH,Democratic Republic of the Congo,Percent,
+636,COD,PPPEX,Democratic Republic of the Congo,National currency per current international dollar,
+636,COD,NID_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,NGSD_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,PCPI,Democratic Republic of the Congo,Index,
+636,COD,PCPIPCH,Democratic Republic of the Congo,Percent change,
+636,COD,PCPIE,Democratic Republic of the Congo,Index,
+636,COD,PCPIEPCH,Democratic Republic of the Congo,Percent change,
+636,COD,FLIBOR6,Democratic Republic of the Congo,Percent,
+636,COD,TM_RPCH,Democratic Republic of the Congo,Percent change,
+636,COD,TMG_RPCH,Democratic Republic of the Congo,Percent change,
+636,COD,TX_RPCH,Democratic Republic of the Congo,Percent change,
+636,COD,TXG_RPCH,Democratic Republic of the Congo,Percent change,
+636,COD,LUR,Democratic Republic of the Congo,Percent of total labor force,
+636,COD,LE,Democratic Republic of the Congo,Persons,Millions
+636,COD,LP,Democratic Republic of the Congo,Persons,Millions
+636,COD,GGR,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGR_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,GGX,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGX_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,GGXCNL,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGXCNL_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,GGSB,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGSB_NPGDP,Democratic Republic of the Congo,Percent of potential GDP,
+636,COD,GGXONLB,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGXONLB_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,GGXWDN,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGXWDN_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,GGXWDG,Democratic Republic of the Congo,National currency,Billions
+636,COD,GGXWDG_NGDP,Democratic Republic of the Congo,Percent of GDP,
+636,COD,NGDP_FY,Democratic Republic of the Congo,National currency,Billions
+636,COD,BCA,Democratic Republic of the Congo,U.S. dollars,Billions
+636,COD,BCA_NGDPD,Democratic Republic of the Congo,Percent of GDP,
+634,COG,NGDP_R,Republic of Congo,National currency,Billions
+634,COG,NGDP_RPCH,Republic of Congo,Percent change,
+634,COG,NGDP,Republic of Congo,National currency,Billions
+634,COG,NGDPD,Republic of Congo,U.S. dollars,Billions
+634,COG,PPPGDP,Republic of Congo,Purchasing power parity; international dollars,Billions
+634,COG,NGDP_D,Republic of Congo,Index,
+634,COG,NGDPRPC,Republic of Congo,National currency,Units
+634,COG,NGDPRPPPPC,Republic of Congo,Purchasing power parity; 2011 international dollar,Units
+634,COG,NGDPPC,Republic of Congo,National currency,Units
+634,COG,NGDPDPC,Republic of Congo,U.S. dollars,Units
+634,COG,PPPPC,Republic of Congo,Purchasing power parity; international dollars,Units
+634,COG,NGAP_NPGDP,Republic of Congo,Percent of potential GDP,
+634,COG,PPPSH,Republic of Congo,Percent,
+634,COG,PPPEX,Republic of Congo,National currency per current international dollar,
+634,COG,NID_NGDP,Republic of Congo,Percent of GDP,
+634,COG,NGSD_NGDP,Republic of Congo,Percent of GDP,
+634,COG,PCPI,Republic of Congo,Index,
+634,COG,PCPIPCH,Republic of Congo,Percent change,
+634,COG,PCPIE,Republic of Congo,Index,
+634,COG,PCPIEPCH,Republic of Congo,Percent change,
+634,COG,FLIBOR6,Republic of Congo,Percent,
+634,COG,TM_RPCH,Republic of Congo,Percent change,
+634,COG,TMG_RPCH,Republic of Congo,Percent change,
+634,COG,TX_RPCH,Republic of Congo,Percent change,
+634,COG,TXG_RPCH,Republic of Congo,Percent change,
+634,COG,LUR,Republic of Congo,Percent of total labor force,
+634,COG,LE,Republic of Congo,Persons,Millions
+634,COG,LP,Republic of Congo,Persons,Millions
+634,COG,GGR,Republic of Congo,National currency,Billions
+634,COG,GGR_NGDP,Republic of Congo,Percent of GDP,
+634,COG,GGX,Republic of Congo,National currency,Billions
+634,COG,GGX_NGDP,Republic of Congo,Percent of GDP,
+634,COG,GGXCNL,Republic of Congo,National currency,Billions
+634,COG,GGXCNL_NGDP,Republic of Congo,Percent of GDP,
+634,COG,GGSB,Republic of Congo,National currency,Billions
+634,COG,GGSB_NPGDP,Republic of Congo,Percent of potential GDP,
+634,COG,GGXONLB,Republic of Congo,National currency,Billions
+634,COG,GGXONLB_NGDP,Republic of Congo,Percent of GDP,
+634,COG,GGXWDN,Republic of Congo,National currency,Billions
+634,COG,GGXWDN_NGDP,Republic of Congo,Percent of GDP,
+634,COG,GGXWDG,Republic of Congo,National currency,Billions
+634,COG,GGXWDG_NGDP,Republic of Congo,Percent of GDP,
+634,COG,NGDP_FY,Republic of Congo,National currency,Billions
+634,COG,BCA,Republic of Congo,U.S. dollars,Billions
+634,COG,BCA_NGDPD,Republic of Congo,Percent of GDP,
+238,CRI,NGDP_R,Costa Rica,National currency,Billions
+238,CRI,NGDP_RPCH,Costa Rica,Percent change,
+238,CRI,NGDP,Costa Rica,National currency,Billions
+238,CRI,NGDPD,Costa Rica,U.S. dollars,Billions
+238,CRI,PPPGDP,Costa Rica,Purchasing power parity; international dollars,Billions
+238,CRI,NGDP_D,Costa Rica,Index,
+238,CRI,NGDPRPC,Costa Rica,National currency,Units
+238,CRI,NGDPRPPPPC,Costa Rica,Purchasing power parity; 2011 international dollar,Units
+238,CRI,NGDPPC,Costa Rica,National currency,Units
+238,CRI,NGDPDPC,Costa Rica,U.S. dollars,Units
+238,CRI,PPPPC,Costa Rica,Purchasing power parity; international dollars,Units
+238,CRI,NGAP_NPGDP,Costa Rica,Percent of potential GDP,
+238,CRI,PPPSH,Costa Rica,Percent,
+238,CRI,PPPEX,Costa Rica,National currency per current international dollar,
+238,CRI,NID_NGDP,Costa Rica,Percent of GDP,
+238,CRI,NGSD_NGDP,Costa Rica,Percent of GDP,
+238,CRI,PCPI,Costa Rica,Index,
+238,CRI,PCPIPCH,Costa Rica,Percent change,
+238,CRI,PCPIE,Costa Rica,Index,
+238,CRI,PCPIEPCH,Costa Rica,Percent change,
+238,CRI,FLIBOR6,Costa Rica,Percent,
+238,CRI,TM_RPCH,Costa Rica,Percent change,
+238,CRI,TMG_RPCH,Costa Rica,Percent change,
+238,CRI,TX_RPCH,Costa Rica,Percent change,
+238,CRI,TXG_RPCH,Costa Rica,Percent change,
+238,CRI,LUR,Costa Rica,Percent of total labor force,
+238,CRI,LE,Costa Rica,Persons,Millions
+238,CRI,LP,Costa Rica,Persons,Millions
+238,CRI,GGR,Costa Rica,National currency,Billions
+238,CRI,GGR_NGDP,Costa Rica,Percent of GDP,
+238,CRI,GGX,Costa Rica,National currency,Billions
+238,CRI,GGX_NGDP,Costa Rica,Percent of GDP,
+238,CRI,GGXCNL,Costa Rica,National currency,Billions
+238,CRI,GGXCNL_NGDP,Costa Rica,Percent of GDP,
+238,CRI,GGSB,Costa Rica,National currency,Billions
+238,CRI,GGSB_NPGDP,Costa Rica,Percent of potential GDP,
+238,CRI,GGXONLB,Costa Rica,National currency,Billions
+238,CRI,GGXONLB_NGDP,Costa Rica,Percent of GDP,
+238,CRI,GGXWDN,Costa Rica,National currency,Billions
+238,CRI,GGXWDN_NGDP,Costa Rica,Percent of GDP,
+238,CRI,GGXWDG,Costa Rica,National currency,Billions
+238,CRI,GGXWDG_NGDP,Costa Rica,Percent of GDP,
+238,CRI,NGDP_FY,Costa Rica,National currency,Billions
+238,CRI,BCA,Costa Rica,U.S. dollars,Billions
+238,CRI,BCA_NGDPD,Costa Rica,Percent of GDP,
+662,CIV,NGDP_R,C?e d'Ivoire,National currency,Billions
+662,CIV,NGDP_RPCH,C?e d'Ivoire,Percent change,
+662,CIV,NGDP,C?e d'Ivoire,National currency,Billions
+662,CIV,NGDPD,C?e d'Ivoire,U.S. dollars,Billions
+662,CIV,PPPGDP,C?e d'Ivoire,Purchasing power parity; international dollars,Billions
+662,CIV,NGDP_D,C?e d'Ivoire,Index,
+662,CIV,NGDPRPC,C?e d'Ivoire,National currency,Units
+662,CIV,NGDPRPPPPC,C?e d'Ivoire,Purchasing power parity; 2011 international dollar,Units
+662,CIV,NGDPPC,C?e d'Ivoire,National currency,Units
+662,CIV,NGDPDPC,C?e d'Ivoire,U.S. dollars,Units
+662,CIV,PPPPC,C?e d'Ivoire,Purchasing power parity; international dollars,Units
+662,CIV,NGAP_NPGDP,C?e d'Ivoire,Percent of potential GDP,
+662,CIV,PPPSH,C?e d'Ivoire,Percent,
+662,CIV,PPPEX,C?e d'Ivoire,National currency per current international dollar,
+662,CIV,NID_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,NGSD_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,PCPI,C?e d'Ivoire,Index,
+662,CIV,PCPIPCH,C?e d'Ivoire,Percent change,
+662,CIV,PCPIE,C?e d'Ivoire,Index,
+662,CIV,PCPIEPCH,C?e d'Ivoire,Percent change,
+662,CIV,FLIBOR6,C?e d'Ivoire,Percent,
+662,CIV,TM_RPCH,C?e d'Ivoire,Percent change,
+662,CIV,TMG_RPCH,C?e d'Ivoire,Percent change,
+662,CIV,TX_RPCH,C?e d'Ivoire,Percent change,
+662,CIV,TXG_RPCH,C?e d'Ivoire,Percent change,
+662,CIV,LUR,C?e d'Ivoire,Percent of total labor force,
+662,CIV,LE,C?e d'Ivoire,Persons,Millions
+662,CIV,LP,C?e d'Ivoire,Persons,Millions
+662,CIV,GGR,C?e d'Ivoire,National currency,Billions
+662,CIV,GGR_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,GGX,C?e d'Ivoire,National currency,Billions
+662,CIV,GGX_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,GGXCNL,C?e d'Ivoire,National currency,Billions
+662,CIV,GGXCNL_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,GGSB,C?e d'Ivoire,National currency,Billions
+662,CIV,GGSB_NPGDP,C?e d'Ivoire,Percent of potential GDP,
+662,CIV,GGXONLB,C?e d'Ivoire,National currency,Billions
+662,CIV,GGXONLB_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,GGXWDN,C?e d'Ivoire,National currency,Billions
+662,CIV,GGXWDN_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,GGXWDG,C?e d'Ivoire,National currency,Billions
+662,CIV,GGXWDG_NGDP,C?e d'Ivoire,Percent of GDP,
+662,CIV,NGDP_FY,C?e d'Ivoire,National currency,Billions
+662,CIV,BCA,C?e d'Ivoire,U.S. dollars,Billions
+662,CIV,BCA_NGDPD,C?e d'Ivoire,Percent of GDP,
+960,HRV,NGDP_R,Croatia,National currency,Billions
+960,HRV,NGDP_RPCH,Croatia,Percent change,
+960,HRV,NGDP,Croatia,National currency,Billions
+960,HRV,NGDPD,Croatia,U.S. dollars,Billions
+960,HRV,PPPGDP,Croatia,Purchasing power parity; international dollars,Billions
+960,HRV,NGDP_D,Croatia,Index,
+960,HRV,NGDPRPC,Croatia,National currency,Units
+960,HRV,NGDPRPPPPC,Croatia,Purchasing power parity; 2011 international dollar,Units
+960,HRV,NGDPPC,Croatia,National currency,Units
+960,HRV,NGDPDPC,Croatia,U.S. dollars,Units
+960,HRV,PPPPC,Croatia,Purchasing power parity; international dollars,Units
+960,HRV,NGAP_NPGDP,Croatia,Percent of potential GDP,
+960,HRV,PPPSH,Croatia,Percent,
+960,HRV,PPPEX,Croatia,National currency per current international dollar,
+960,HRV,NID_NGDP,Croatia,Percent of GDP,
+960,HRV,NGSD_NGDP,Croatia,Percent of GDP,
+960,HRV,PCPI,Croatia,Index,
+960,HRV,PCPIPCH,Croatia,Percent change,
+960,HRV,PCPIE,Croatia,Index,
+960,HRV,PCPIEPCH,Croatia,Percent change,
+960,HRV,FLIBOR6,Croatia,Percent,
+960,HRV,TM_RPCH,Croatia,Percent change,
+960,HRV,TMG_RPCH,Croatia,Percent change,
+960,HRV,TX_RPCH,Croatia,Percent change,
+960,HRV,TXG_RPCH,Croatia,Percent change,
+960,HRV,LUR,Croatia,Percent of total labor force,
+960,HRV,LE,Croatia,Persons,Millions
+960,HRV,LP,Croatia,Persons,Millions
+960,HRV,GGR,Croatia,National currency,Billions
+960,HRV,GGR_NGDP,Croatia,Percent of GDP,
+960,HRV,GGX,Croatia,National currency,Billions
+960,HRV,GGX_NGDP,Croatia,Percent of GDP,
+960,HRV,GGXCNL,Croatia,National currency,Billions
+960,HRV,GGXCNL_NGDP,Croatia,Percent of GDP,
+960,HRV,GGSB,Croatia,National currency,Billions
+960,HRV,GGSB_NPGDP,Croatia,Percent of potential GDP,
+960,HRV,GGXONLB,Croatia,National currency,Billions
+960,HRV,GGXONLB_NGDP,Croatia,Percent of GDP,
+960,HRV,GGXWDN,Croatia,National currency,Billions
+960,HRV,GGXWDN_NGDP,Croatia,Percent of GDP,
+960,HRV,GGXWDG,Croatia,National currency,Billions
+960,HRV,GGXWDG_NGDP,Croatia,Percent of GDP,
+960,HRV,NGDP_FY,Croatia,National currency,Billions
+960,HRV,BCA,Croatia,U.S. dollars,Billions
+960,HRV,BCA_NGDPD,Croatia,Percent of GDP,
+423,CYP,NGDP_R,Cyprus,National currency,Billions
+423,CYP,NGDP_RPCH,Cyprus,Percent change,
+423,CYP,NGDP,Cyprus,National currency,Billions
+423,CYP,NGDPD,Cyprus,U.S. dollars,Billions
+423,CYP,PPPGDP,Cyprus,Purchasing power parity; international dollars,Billions
+423,CYP,NGDP_D,Cyprus,Index,
+423,CYP,NGDPRPC,Cyprus,National currency,Units
+423,CYP,NGDPRPPPPC,Cyprus,Purchasing power parity; 2011 international dollar,Units
+423,CYP,NGDPPC,Cyprus,National currency,Units
+423,CYP,NGDPDPC,Cyprus,U.S. dollars,Units
+423,CYP,PPPPC,Cyprus,Purchasing power parity; international dollars,Units
+423,CYP,NGAP_NPGDP,Cyprus,Percent of potential GDP,
+423,CYP,PPPSH,Cyprus,Percent,
+423,CYP,PPPEX,Cyprus,National currency per current international dollar,
+423,CYP,NID_NGDP,Cyprus,Percent of GDP,
+423,CYP,NGSD_NGDP,Cyprus,Percent of GDP,
+423,CYP,PCPI,Cyprus,Index,
+423,CYP,PCPIPCH,Cyprus,Percent change,
+423,CYP,PCPIE,Cyprus,Index,
+423,CYP,PCPIEPCH,Cyprus,Percent change,
+423,CYP,FLIBOR6,Cyprus,Percent,
+423,CYP,TM_RPCH,Cyprus,Percent change,
+423,CYP,TMG_RPCH,Cyprus,Percent change,
+423,CYP,TX_RPCH,Cyprus,Percent change,
+423,CYP,TXG_RPCH,Cyprus,Percent change,
+423,CYP,LUR,Cyprus,Percent of total labor force,
+423,CYP,LE,Cyprus,Persons,Millions
+423,CYP,LP,Cyprus,Persons,Millions
+423,CYP,GGR,Cyprus,National currency,Billions
+423,CYP,GGR_NGDP,Cyprus,Percent of GDP,
+423,CYP,GGX,Cyprus,National currency,Billions
+423,CYP,GGX_NGDP,Cyprus,Percent of GDP,
+423,CYP,GGXCNL,Cyprus,National currency,Billions
+423,CYP,GGXCNL_NGDP,Cyprus,Percent of GDP,
+423,CYP,GGSB,Cyprus,National currency,Billions
+423,CYP,GGSB_NPGDP,Cyprus,Percent of potential GDP,
+423,CYP,GGXONLB,Cyprus,National currency,Billions
+423,CYP,GGXONLB_NGDP,Cyprus,Percent of GDP,
+423,CYP,GGXWDN,Cyprus,National currency,Billions
+423,CYP,GGXWDN_NGDP,Cyprus,Percent of GDP,
+423,CYP,GGXWDG,Cyprus,National currency,Billions
+423,CYP,GGXWDG_NGDP,Cyprus,Percent of GDP,
+423,CYP,NGDP_FY,Cyprus,National currency,Billions
+423,CYP,BCA,Cyprus,U.S. dollars,Billions
+423,CYP,BCA_NGDPD,Cyprus,Percent of GDP,
+935,CZE,NGDP_R,Czech Republic,National currency,Billions
+935,CZE,NGDP_RPCH,Czech Republic,Percent change,
+935,CZE,NGDP,Czech Republic,National currency,Billions
+935,CZE,NGDPD,Czech Republic,U.S. dollars,Billions
+935,CZE,PPPGDP,Czech Republic,Purchasing power parity; international dollars,Billions
+935,CZE,NGDP_D,Czech Republic,Index,
+935,CZE,NGDPRPC,Czech Republic,National currency,Units
+935,CZE,NGDPRPPPPC,Czech Republic,Purchasing power parity; 2011 international dollar,Units
+935,CZE,NGDPPC,Czech Republic,National currency,Units
+935,CZE,NGDPDPC,Czech Republic,U.S. dollars,Units
+935,CZE,PPPPC,Czech Republic,Purchasing power parity; international dollars,Units
+935,CZE,NGAP_NPGDP,Czech Republic,Percent of potential GDP,
+935,CZE,PPPSH,Czech Republic,Percent,
+935,CZE,PPPEX,Czech Republic,National currency per current international dollar,
+935,CZE,NID_NGDP,Czech Republic,Percent of GDP,
+935,CZE,NGSD_NGDP,Czech Republic,Percent of GDP,
+935,CZE,PCPI,Czech Republic,Index,
+935,CZE,PCPIPCH,Czech Republic,Percent change,
+935,CZE,PCPIE,Czech Republic,Index,
+935,CZE,PCPIEPCH,Czech Republic,Percent change,
+935,CZE,FLIBOR6,Czech Republic,Percent,
+935,CZE,TM_RPCH,Czech Republic,Percent change,
+935,CZE,TMG_RPCH,Czech Republic,Percent change,
+935,CZE,TX_RPCH,Czech Republic,Percent change,
+935,CZE,TXG_RPCH,Czech Republic,Percent change,
+935,CZE,LUR,Czech Republic,Percent of total labor force,
+935,CZE,LE,Czech Republic,Persons,Millions
+935,CZE,LP,Czech Republic,Persons,Millions
+935,CZE,GGR,Czech Republic,National currency,Billions
+935,CZE,GGR_NGDP,Czech Republic,Percent of GDP,
+935,CZE,GGX,Czech Republic,National currency,Billions
+935,CZE,GGX_NGDP,Czech Republic,Percent of GDP,
+935,CZE,GGXCNL,Czech Republic,National currency,Billions
+935,CZE,GGXCNL_NGDP,Czech Republic,Percent of GDP,
+935,CZE,GGSB,Czech Republic,National currency,Billions
+935,CZE,GGSB_NPGDP,Czech Republic,Percent of potential GDP,
+935,CZE,GGXONLB,Czech Republic,National currency,Billions
+935,CZE,GGXONLB_NGDP,Czech Republic,Percent of GDP,
+935,CZE,GGXWDN,Czech Republic,National currency,Billions
+935,CZE,GGXWDN_NGDP,Czech Republic,Percent of GDP,
+935,CZE,GGXWDG,Czech Republic,National currency,Billions
+935,CZE,GGXWDG_NGDP,Czech Republic,Percent of GDP,
+935,CZE,NGDP_FY,Czech Republic,National currency,Billions
+935,CZE,BCA,Czech Republic,U.S. dollars,Billions
+935,CZE,BCA_NGDPD,Czech Republic,Percent of GDP,
