@@ -318,6 +318,76 @@ is_var_number <- function(x){
   return(return_x)
 }
 
+#\\\-----------------------
+  #\\\
+
+    # DESC: Merge two dataframe
+    # INPUT:
+    # OUTPUT: Data Frame -- a merged dataframe 
+    merge_dataframe <- function(df_1 , df_2){
+      
+      # Checks whether the column name are similar
+      if(
+        class(df_1)=="data.frame"
+        &&
+        class(df_2)=="data.frame"
+      ){
+        
+        df1_names <- names(df_1)
+        df2_names <- names(df_2)
+        df_names_diff <- c
+        
+        is_names_similar <- TRUE
+        
+        n1 <- 1
+        for(name in df1_names){
+          
+          if(name != df2_names[n1]){
+       
+            for(sel_name in df_names_diff){
+              
+              # If not, then add to vector
+              if(sel_name != name ){
+                df_names_diff <- append(df_names_diff, name)
+              }else if(sel_name != df2_names[n1]){
+                df_names_diff <- append(df_names_diff, df2_names[n1])
+              }
+            }
+          }
+          
+          n1 <- n1 + 1
+        }
+      
+        if(length(df_names_diff) == 0){
+          df_master <- rbind(df_1, df_2)
+          
+        }else{
+          
+          for(name_x2 in df_names_diff){
+            df_master[name_x2] <- ""
+          }
+          
+          df_master <- rbind(df_1, df_2)
+      
+        }
+      
+      }else{
+        message(
+          cat("\n----------------------------------------------------\n"),
+          cat("  ATTENTION: "),
+          cat("\n  Please make sure the arguments are data frame"),
+          cat("\n-------------------------------------------------------\n")
+        )
+      }
+      
+      return(return_x)
+    }
+
+  #///
+#///------------------------
+
+
+
 # DESC: Split characters in a string and seperate them into a vectore
 # INPUT:  String
 # OUTPUT: Returns a vector 
@@ -432,5 +502,6 @@ select_date_range <- function(data, col_date, start_date, end_date){
   }
   
 }
+
 
 
