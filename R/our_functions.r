@@ -5,7 +5,7 @@
 #   that can be re-used for a particular purposes.
 # 
 # Repo: https://github.com/penmaypa/penuel-library/raw/master/R/our_functions.r
-#
+# 
 #=====================================
 message(
   cat(
@@ -14,7 +14,7 @@ message(
 )
 message(
   cat(" \n==========================================================
-      \n Our_Functions.r -- created by Penuel Maypa 
+      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 1 April, 2020 
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
   )
@@ -464,18 +464,7 @@ select_date_range <- function(data, col_date, start_date, end_date){
   disable_if <-- TRUE
   if(class(col_date)=="character" || disable_if == TRUE){
     
-    if(check_date_iso(data[,col_date])){
-      cont <- TRUE
-    }else{
-      cont <- FALSE
-      message(
-        cat(
-          "\n\n ERROR: \n The dates are not format in yyyy-mm-dd \n"
-        ),
-        cat(" Cannot perform this function \n")
-      )
-    }
-    
+  
     this_col <- data[col_date]
     this_data <- data[order(data[c(col_date)], decreasing = FALSE),]
     
