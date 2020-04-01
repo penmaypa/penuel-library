@@ -1,0 +1,12 @@
+ERROR:
+
+Error Message: 
+	------------------------
+		Error in .jnew("opennlp.tools.postag.POSModel", .jcast(.jnew("java.io.FileInputStream", java.lang.OutOfMemoryError: Java heap space,
+	---------------------------
+
+SOLUTION:
+------------------------
+- Restart R/Rstudio if you must, and modify the options at the beginning of your script.
+- And put the following code at the top: 
+	options(java.parameters = "-Xmx8000m")

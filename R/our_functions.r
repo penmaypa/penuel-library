@@ -347,12 +347,13 @@ is_var_number <- function(x){
             for(sel_name in df_names_diff){
               
               # If not, then add to vector
-              if(sel_name != name ){
+              if(sel_name != name){
                 df_names_diff <- append(df_names_diff, name)
               }else if(sel_name != df2_names[n1]){
                 df_names_diff <- append(df_names_diff, df2_names[n1])
               }
             }
+            
           }
           
           n1 <- n1 + 1
