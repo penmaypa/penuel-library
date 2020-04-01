@@ -14,7 +14,7 @@ message(
 )
 message(
   cat(" \n==========================================================
-      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 1 April, 2020 
+      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 1 April, 2020 12:32
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
   )
@@ -23,6 +23,7 @@ message(
 #==========================
 #  PACKAGES & LIBRARIES
 #--------------------------
+install.packages("crayon")
 library(crayon)
 
 
