@@ -476,7 +476,7 @@ select_date_range <- function(data, col_date, start_date, end_date){
       )
     }
     
-    this_col <- data[, col_date]
+    this_col <- data[col_date]
     this_data <- data[order(data[c(col_date)], decreasing = FALSE),]
     
     
