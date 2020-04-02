@@ -1,0 +1,19 @@
+tryCatch(
+    expr = {
+        # Your code...
+        # goes here...
+        # ...
+    },
+    error = function(e){ 
+        # (Optional)
+        # Do this if an error is caught...
+    },
+    warning = function(w){
+        # (Optional)
+        # Do this if an warning is caught...
+    },
+    finally = {
+        # (Optional)
+        # Do this at the end before quitting the tryCatch structure...
+    }
+)
