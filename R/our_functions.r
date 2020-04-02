@@ -14,7 +14,7 @@ message(
 )
 message(
   cat(" \n==========================================================
-      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 1 April, 2020 12:32
+      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 2 April, 2020 02:32
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
   )
@@ -77,6 +77,11 @@ is_error <- function(var_obj){
   }
 }
 
+# DESC: Converts decimal into percent
+#
+percent <- function(x, digits = 2, format = "f", ...) {
+  paste0(formatC(100 * x, format = format, digits = digits, ...), "%")
+}
 
 # DESC: Compare two dataframe and check if their column are similar
 # INPUT: df_1 , df_2 
@@ -465,7 +470,6 @@ select_date_range <- function(data, col_date, start_date, end_date){
   disable_if <-- TRUE
   if(class(col_date)=="character" || disable_if == TRUE){
     
-  
     this_col <- data[col_date]
     this_data <- data[order(data[c(col_date)], decreasing = FALSE),]
     
