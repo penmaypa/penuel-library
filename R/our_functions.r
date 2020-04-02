@@ -20,6 +20,8 @@ message(
   )
 )
 
+source("https://github.com/penmaypa/penuel-library/raw/master/R/Tools/check_package.r")
+
 #==========================
 #  PACKAGES & LIBRARIES
 #--------------------------
