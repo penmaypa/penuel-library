@@ -23,11 +23,12 @@ message(
 #==========================
 #  PACKAGES & LIBRARIES
 #--------------------------
-install.packages("crayon")
+
+
+check_package( c("crayon") )
 library(crayon)
 
-
-
+        
 get_message__column_name_warning <- function(){
   message(
     cat("\n-------------------------------------------------------------------------------------"),
