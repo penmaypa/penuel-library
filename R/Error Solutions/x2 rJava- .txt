@@ -1,0 +1,15 @@
+ERROR MESSAGE:
+-----------------------
+        ERROR: configuration failed for package ‘rJava’
+    * removing ‘..../i686-pc-linux-gnu-library/3.2/rJava’
+    Warning in install.packages :
+      installation of package ‘rJava’ had non-zero exit status
+-----------------------
+
+SOLUTION:
+-----------------------
+    The easiest way to get rJava on Ubuntu is to install it from the repositories instead of trying to install it directly from CRAN. From the command line this should do the trick:
+
+    -----------------------------
+      sudo apt-get install r-cran-rjava
+    ------------------------------------------
