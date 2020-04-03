@@ -140,6 +140,64 @@ randomRows = function(df,n){
   return(df[sample(nrow(df),n),])
 }
 
+
+# Checks for existing column-name in the dataframe
+check_column_name <- function(dataframe, column_name){
+  
+  cont <- TRUE
+  
+  if(class(dataframe) == "data.frame"){
+    cont <- TRUE
+  }else{
+    cont <- FALSE
+    
+    message("\n  ------------------------------------\n ")
+    message("    ERROR: ")
+    message("      The input of dataframe parameter is not a dataframe")
+    message("\n  ------------------------------------\n ")
+  }
+  
+  
+  if(is.character(column_name)==TRUE && cont == TRUE){
+    
+    namex <- names(dataframe)
+    xa <- 1
+    for(item in namex){
+      
+      if(as.character(item) == column_name){
+        returnx <- TRUE
+        break
+      }
+      
+      xa <- xa+1
+    }
+    
+    if(xa >= length(namex) ){
+      
+      returnx <- FALSE
+      
+      message("\n  ------------------------------------\n ")
+      message("    ERROR: ")
+      message("      The column-name \"", column_name,"\" does not exist.")
+      message("      please make sure the spelling and case are correct.")
+      message("\n  ------------------------------------\n ")
+      
+    }
+    
+  }else{
+    
+    returnx <- FALSE
+    
+    message("\n  ------------------------------------\n ")
+    message("    ERROR: ")
+    message("      The column-name is not a string (character)")
+    message("\n  ------------------------------------\n ")
+  }
+  
+  return(returnx)
+}
+
+
 # DESC: Checks if date is formatted in ISO 
 # INPUT: columns that contains Dates
 # OUTPUT: Boolean - If dates is ISO format
