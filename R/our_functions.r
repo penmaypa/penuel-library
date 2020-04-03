@@ -451,6 +451,29 @@ list_non_number_val_in_col <- function(sel_col){
   return(list_nrow) 
 }
 
+
+# PROGRESS VECTOR & MESSAGE
+#
+progress_vector <- funtion(counter_x, total_x){
+  
+  prog_x <- counter_x / total_x
+  perx <- percent(prog_x)
+  prog_v <- c(counter_x, total_x, perx)
+  
+  return(prog_v)
+}
+
+progress_message <- function(counter_x, total_x){
+  
+  prog_x <- counter_x / total_x
+  perx <- percent(prog_x)
+  prog_v <- c(counter_x, total_x, perx)
+  
+  returnx <- message(" ",counter_x, " of " total_x, "\t",perx )
+  
+}
+
+
 # FUNCTION
 # DESC: Selects a date range
 # INPUT: data = dataframe, col_date = column that contains date, start_date = start range, end_date = end range

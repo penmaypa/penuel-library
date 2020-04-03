@@ -29,61 +29,97 @@ id_correction <- function(dataframe , col_name_id, current_id, expected_id ){
   
   cont <- TRUE
   
-  if( is.numeric(current_id) == FALSE || is.numeric(expected_id) == FALSE){
+  # START: Check if column name exist
+  namev <- names(dataframe)
+  
+  nza <- 1
+  for(itemx in namev){
     
-    current_id <- as.numeric(current_id)
+    if(as.character(col_name_id) == as.character(itemx)){
+      cont <- TRUE
+      break
+    }
     
-    expected_id <- as.numeric(expected_id)
+    nza <- nza + 1
+  }
+  
+  if(nza >= length(namev)){
     
-    if(is.integer(current_id) == FALSE || is.integer(expected_id) == FALSE){
+    message("\n  ===========================================\n")
+    message("   ERROR: The following column name \"", col_name_id,"\" does not exist")
+    message("   R is case sensitive, so make sure to check spelling and case")
+    message("\n  ==========================================\n")
+    
+    cont <- FALSE
+  }
+  
+  if(cont == TRUE){
+    
+    cont <- TRUE
+    
+    if( is.numeric(current_id) == FALSE || is.numeric(expected_id) == FALSE){
       
-      message("\n  ============================================================\n")
-      message("\t Please make sure that the id is a numeric and an integer")
-      message("\n  =============================================================n")
+      current_id <- as.numeric(current_id)
       
-      cont=FALSE
+      expected_id <- as.numeric(expected_id)
+      
+      if(is.integer(current_id) == FALSE || is.integer(expected_id) == FALSE){
+        
+        message("\n  ============================================================\n")
+        message("\t Please make sure that the id is a numeric and an integer")
+        message("\n  =============================================================n")
+        
+        cont=FALSE
+        
+      }
       
     }
     
-  }
-  
-  if(cont==TRUE){
-    
-    # FIND DIFFERENCE BETWEEN current and expcted
-    if(expected_id > current_id){
+    if(cont==TRUE){
       
-      diffx <- expected_id - current_id
-      
-      nxa <- 1
-      while(nxa <= nrow(dataframe) && cont==TRUE){
+      # FIND DIFFERENCE BETWEEN current and expcted
+      if(expected_id > current_id){
         
-        cor_id <-as.integer( dataframe[nxa,col_name_id]) + diffx
+        diffx <- expected_id - current_id
         
-        dataframe[nxa,col_name_id] <- cor_id
-        nxa <- nxa + 1
+        nxa <- 1
+        while(nxa <= nrow(dataframe) && cont==TRUE){
+          
+          cor_id <-as.integer( dataframe[nxa,col_name_id]) + diffx
+          
+          dataframe[nxa,col_name_id] <- cor_id
+          nxa <- nxa + 1
+          
+          progress <- percent((nxa/nrow(dataframe)))
+          message(nxa, " out of ",nrow(dataframe),"\t", progress)
+        }
+        
+      }else if(expected_id < current_id){
+        
+        diffx <- current_id - expected_id
+        
+        nxa <- 1
+        while(nxa <= nrow(dataframe) && cont==TRUE){
+          
+          cor_id <- as.integer(dataframe[nxa,col_name_id]) - diffx
+          
+          dataframe[nxa,col_name_id] <- cor_id
+          nxa <- nxa + 1
+          
+          progress <- percent((nxa/nrow(dataframe)))
+          message(nxa, " out of ",nrow(dataframe),"\t", progress)
+        }
+        
+      }else{
+        message("There are no difference between current_id and expected_id")
       }
       
-    }else if(expected_id < current_id){
-      
-      diffx <- current_id - expected_id
-      
-      nxa <- 1
-      while(nxa <= nrow(dataframe) && cont==TRUE){
-        
-        cor_id <- as.integer(dataframe[nxa,col_name_id]) - diffx
-        
-        dataframe[nxa,col_name_id] <- cor_id
-        nxa <- nxa + 1
-      }
-      
-    }else{
-      message("There are no difference between current_id and expected_id")
     }
     
+    returnx <- dataframe
+    
+    return(returnx)
+    
   }
-  
-  returnx <- dataframe
-  
-  return(returnx)
 }
 
