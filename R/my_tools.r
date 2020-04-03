@@ -9,7 +9,7 @@ message(
 
 
 
-id_correction(dataframe , col_name_id, current_id, expected_id ){
+id_correction <- function(dataframe , col_name_id, current_id, expected_id ){
   #DES: Corrects ID by comparing the wrong id to the original id
   
   dataframe <- dataframe
@@ -83,13 +83,7 @@ id_correction(dataframe , col_name_id, current_id, expected_id ){
   }
   
   returnx <- dataframe
+  
   return(returnx)
-  
-}
-
-
-
-word_counter(){
-  
 }
 
