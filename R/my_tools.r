@@ -3,7 +3,7 @@ message(
   cat("\t       penmaypa: my_tools.r "),
   cat("\n\t   -------------------------------------"),
   cat("\n   A collection of custom tools created by Penuel Maypa (March 2020)"),
-  cat("\n\n   Last Update: 2020-03-31"),
+  cat("\n\n   Last Update: 03-Apr-2020 04:25"),
   cat("\n\n  ===============================================================\n")
 )
 
