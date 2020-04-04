@@ -607,3 +607,13 @@ duplicate_dataframe_column <- function(dataframe){
   return(returnx)
 }
 
+
+delete_column <- function(df,col_names){
+  DF <- df
+  drops <- c(col_names)
+  dfx <- DF[ , !(names(DF) %in% drops)]
+  
+  return(dfx)
+}
+
+
