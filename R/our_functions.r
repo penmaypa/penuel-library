@@ -512,7 +512,7 @@ list_non_number_val_in_col <- function(sel_col){
 
 # PROGRESS VECTOR & MESSAGE
 #
-progress_vector <- funtion(counter_x, total_x){
+progress_vector <- function(counter_x, total_x){
   
   prog_x <- counter_x / total_x
   perx <- percent(prog_x)
@@ -527,7 +527,7 @@ progress_message <- function(counter_x, total_x){
   perx <- percent(prog_x)
   prog_v <- c(counter_x, total_x, perx)
   
-  returnx <- message(" ",counter_x, " of " total_x, "\t",perx )
+  returnx <- message(" ",counter_x, " of ", total_x, "\t",perx )
   
 }
 
@@ -582,5 +582,28 @@ select_date_range <- function(data, col_date, start_date, end_date){
   
 }
 
-
+duplicate_dataframe_column <- function(dataframe){
+  
+  #==================
+  #  PARAMETERS
+  df <- dataframe
+  #================
+  
+  namev <- names(df)
+  
+  dfb <- data.frame()
+  nxa <- 1
+  for(namex in namev){
+    
+    dfb[nxa] <- data.frame(x="")
+    colnames(dfb)[nxa] <- namex 
+    
+    nxa <- nxa +1 
+  }
+  
+  
+  returnx <- dfb
+  
+  return(returnx)
+}
 
