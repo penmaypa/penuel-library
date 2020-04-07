@@ -622,3 +622,23 @@ delete_column <- function(df,col_names){
 }
 
 
+create_dataframe <- function (columns){
+  #===============
+  # INPUT:
+  #   vector 
+  columns <- columns 
+  
+  #================
+  
+  dfx1 <- as.data.frame()
+  
+  for(colx in columns){
+    dfx[colx] <- ""
+  }
+  
+  returnx <- dfx
+  
+  return(returnx)
+}
+
+
