@@ -642,3 +642,21 @@ create_dataframe <- function (columns){
 }
 
 
+
+dataframe_add_column <- function(df, columns){
+  
+  df <- df
+  columns <- columns
+  
+  for(colx in columns){
+    df[colx] <- ""
+  }
+  
+  returnx <- df
+  return(returnx)
+}
+
+add_columns <- function(df, columns){
+  dataframe_add_column(df, columns)
+}
+
