@@ -331,8 +331,8 @@ find_row_where_value <- function(df,column_name, value){
   }else{
     message(
       cat(yellow("\n  ----------------------------------------------------------")),
-      cat(yellow("\n\t Please make sure to type name of the column: ")),
-      cat(yellow("\n\t \"Heading\" instead of \"data$name\" ")),
+      cat(yellow("\n\t Please make sure that the value is a character")),
+      cat(yellow("\n\t Use as.charcacter() function")),
       cat(yellow("\n  --------------------------------------------------------------"))
     )
   }
@@ -658,5 +658,68 @@ dataframe_add_column <- function(df, columns){
 
 add_columns <- function(df, columns){
   dataframe_add_column(df, columns)
+}
+
+
+match_key_value <- function(df_x, colname_id_x,colname_empt_value_x,df_y,colname_id_y,colname_value_y){
+  
+  # INPUT:
+  df_x <- df_x
+  colname_id_x <- colname_id_x
+  colname_empt_value_x <- colname_empt_value_x
+  
+  df_y <- df_y
+  colname_id_y <- colname_id_y
+  colname_value_y <- colname_value_y
+  
+  cont <- TRUE
+  nx1 <- 1
+  while(nx1 <= nrow(df_x) && cont == TRUE){
+    
+    id_x <- df_x[nx1, colname_id_x]
+    value_dfx <- find_row_where_value(df_y, colname_id_y, as.character(id_x))
+    
+    if(nrow(value_dfx) != 1){
+      
+      message("\n  ---------------------------- \n")
+      message("\n    Error:  ")
+      message("\n      Value may had not found...")
+      message("\n      ... OR there are more than 1 value")
+      message("\n  ---------------------------- \n")
+      
+      stop(paste("\n The function stopped at: \n", progress_message(nx1,nrow(df_x)), sep=""),call. = TRUE, domain = NULL)
+      # cont <- FALSE
+      # message("\n The programe has stopped \n")
+      
+    }else{
+      value_x <- value_dfx[1,colname_value_y]
+      df_x[nx1, colname_empt_value_x] <- as.character(value_x)
+    }
+    
+    progress_message(nx1,nrow(df_x))
+    nx1 <- nx1 + 1
+  }
+  
+  returnx <- df_x
+  
+  return(returnx)
+}
+
+
+
+print_vector <- function(x){
+  
+  nx <- 1
+  for(item in x){
+    print(paste(nx,": ",item," ",sep=""))
+    
+    nx <- nx +1
+  }
+}
+
+
+rename_column <- function(df, sel_column, new_name){
+  colnames(df)[names(df)==sel_column] <- new_name
+  return(df)
 }
 
