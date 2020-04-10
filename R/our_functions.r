@@ -723,3 +723,21 @@ rename_column <- function(df, sel_column, new_name){
   return(df)
 }
 
+install_packages_if_not_installed <- function(vector_package){
+  
+  # DESC:  Installs packages if such package is not installed
+  # INPUT: Vector , one or more package i.e, c("package_1", "package_2")
+  
+  list.of.packages <- vector_package
+  new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+  return( 
+    
+    if(length(new.packages)){
+      message("\n  Installing packages...\n")
+      install.packages(new.packages)
+    }else{
+      message("\n  Packeged already installed \n")
+    } 
+  
+  )
+}
