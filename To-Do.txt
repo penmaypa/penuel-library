@@ -1,0 +1,6 @@
+TO DO:
+
+R:
+	^ word_splitter 
+		^ Inputs: A group of strings; sentences.
+		^ Output: A Vector - containing a list of words/strings
