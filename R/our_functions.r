@@ -719,7 +719,7 @@ print_vector <- function(x){
 
 
 rename_column <- function(df, sel_column, new_name){
-  colnames(df)[names(df)==sel_column] <- new_name
+  colnames(df)[names(df)==sel_column] <- as.character(new_name)
   return(df)
 }
 
@@ -728,16 +728,23 @@ install_packages_if_not_installed <- function(vector_package){
   # DESC:  Installs packages if such package is not installed
   # INPUT: Vector , one or more package i.e, c("package_1", "package_2")
   
-  list.of.packages <- vector_package
-  new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
-  return( 
+  for(packx in vector_package){
+    list.of.packages <- packx
+    new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
     
-    if(length(new.packages)){
-      message("\n  Installing packages...\n")
-      install.packages(new.packages)
-    }else{
-      message("\n  Packeged already installed \n")
-    } 
-  
-  )
+    return(
+      if(length(new.packages)){
+        message(paste("\n  Installing package: ",packx,"\n",sep=","))
+        install.packages(new.packages)
+      }else{
+        message(paste("\n  The package already installed: ",packx,sep=","))
+      } 
+    )
+  }
+ 
+}
+
+decimal_round_to <- function(x,n){
+  return_x <- format(round(x, 2), nsmall = n)
+  return(return_x)
 }
