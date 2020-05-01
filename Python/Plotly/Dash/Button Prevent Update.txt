@@ -1,0 +1,16 @@
+To prevent update during call back
+
+CODE
+========================
+
+@app.callback(
+    Output(component_id='body-div', component_property='children'),
+    [Input(component_id='show-secret', component_property='n_clicks')]
+)
+def update_output(n_clicks):
+    if n_clicks is None:
+        raise PreventUpdate
+    else:
+        return "Elephants are the only animal that can't jump"
+
+================================
