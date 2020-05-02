@@ -1,0 +1,8 @@
+ 
+Code for merging with another branch and overwrite
+overwrite your current branch:
+=====================================
+
+git merge -X theirs <branch_name>
+
+=====================================
