@@ -631,16 +631,22 @@ create_dataframe <- function (columns){
   
   #================
   
-  dfx <- as.data.frame("",row.names=NULL)
+  dfx <- as.data.frame("Sample",row.names=NULL)
+  
+  if(length(columns)<=1){
+    message("=============================== \n")
+    message("  Please make sure to have")
+    message("  at least two columns")
+    message("\n===============================")
+  }
   
   for(colx in columns){
     dfx[colx] <- "sample"
   }
   
-  dfx <- dfx[,-1]
   dfx <- dfx[-1,]
+  dfx <- dfx[,-1]
   
-  returnx <- dfx
   
   return(returnx)
 }
