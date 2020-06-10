@@ -14,7 +14,7 @@ message(
 )
 message(
   cat(" \n==========================================================
-      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 10 June, 2020 02:32
+      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 10 June, 2020 18:30
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
   )
@@ -664,6 +664,15 @@ dataframe_add_column <- function(df, columns){
   returnx <- df
   return(returnx)
 }
+
+dataframe_add_row <- function(dataframe_x ,vector_x){
+  
+  names(vector_x) <- colnames(dataframe_x)
+  return_x <- rbind(dataframe_x,vector_x)
+  
+  return(return_x)
+}
+
 
 add_columns <- function(df, columns){
   dataframe_add_column(df, columns)
