@@ -634,7 +634,7 @@ create_dataframe <- function (columns){
   dfx <- as.data.frame("",row.names=NULL)
   
   for(colx in columns){
-    dfx[colx] <- ""
+    dfx[colx] <- "sample"
   }
   
   dfx <- dfx[,-1]
@@ -644,6 +644,7 @@ create_dataframe <- function (columns){
   
   return(returnx)
 }
+
 
 dataframe_add_column <- function(df, columns){
   
