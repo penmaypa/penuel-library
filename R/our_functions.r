@@ -14,7 +14,7 @@ message(
 )
 message(
   cat(" \n==========================================================
-      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 2 April, 2020 02:32
+      \n Our_Functions.r -- created by Penuel Maypa | Last Update: 10 June, 2020 02:32
      \nThis R file contains a collection of customized functions
       \n ========================================================= \n"  
   )
@@ -623,6 +623,7 @@ delete_column <- function(df,col_names){
 
 
 create_dataframe <- function (columns){
+  
   #===============
   # INPUT:
   #   vector 
@@ -630,18 +631,19 @@ create_dataframe <- function (columns){
   
   #================
   
-  dfx1 <- as.data.frame()
+  dfx <- as.data.frame("",row.names=NULL)
   
   for(colx in columns){
     dfx[colx] <- ""
   }
   
+  dfx <- dfx[,-1]
+  dfx <- dfx[-1,]
+  
   returnx <- dfx
   
   return(returnx)
 }
-
-
 
 dataframe_add_column <- function(df, columns){
   
@@ -748,3 +750,4 @@ decimal_round_to <- function(x,n){
   return_x <- format(round(x, 2), nsmall = n)
   return(return_x)
 }
+
